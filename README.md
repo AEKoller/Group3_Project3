@@ -6,9 +6,9 @@ This project seeks to investigate the correlation between crime rates and unempl
 ### **data_cleaning**
 A collection of jupyter notebooks dedicated to pulling and cleaning data.
 
-#### **crime_stats.ipynb**
+##### **crime_stats.ipynb**
 - Pulling crime information from the FBI's crime database via API (https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/docApi)
-#### **unemployment_stats.ipynb**
+##### **unemployment_stats.ipynb**
 - Pulling unemployment information from the U.S. Bureau of Labor Statistics (BLS) via API (https://www.bls.gov/developers/api_signature_v2.htm)
 
 ### **clean_data**
