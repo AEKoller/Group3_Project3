@@ -1,0 +1,20 @@
+"id": "01",
+            "properties": {
+                "name": "Alabama",
+                "density": 94.65,
+                "data_2020":{
+                    "vandalism": 10000,
+                    "muders": 1000,
+                    ""
+                },
+                "data_2021": {
+                    "vandalism": 10000,
+                    "muders": 1000
+                }
+            },
+// How do we manipulate a GeoJSON? Through python and pandas 
+// Use GeoJSON Tools https://github.com/jazzband/geojson
+// Read in the GeoJSON, create a new json that holds the crime data 
+// How do we then attach colors to values 
+// Merging the JSONs together 
+// Final map will be built with GeoJSON and the crime data

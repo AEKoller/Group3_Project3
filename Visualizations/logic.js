@@ -1,3 +1,6 @@
+// 1. We need a GeoJSON map imported 
+// 2. 
+
 fetch('Data/all_crimes_correlation_data.json')
     .then(response => response.json())
     .then(data => console.log(data))
