@@ -64,8 +64,8 @@ function updatePlot() {
 function plotTimeSeries(data, selectedState, selectedCrime) {
   const filteredData = data.filter(entry => entry.state_abbr === selectedState);
 
-  const margin = { top: 20, right: 20, bottom: 50, left: 50 };
-  const width = 600 - margin.left - margin.right;
+  const margin = { top: 50, right: 60, bottom: 100, left: 60 }; // Increased right margin
+  const width = 650 - margin.left - margin.right;
   const height = 400 - margin.top - margin.bottom;
 
   const svg = d3.select('#timeSeriesChart')
@@ -80,17 +80,21 @@ function plotTimeSeries(data, selectedState, selectedCrime) {
     .domain([d3.min(filteredData, d => d.data_year), d3.max(filteredData, d => d.data_year)])
     .range([0, width]);
 
-  const yScale = d3.scaleLinear()
-    .domain([0, d3.max(filteredData, d => Math.max(d[selectedCrime], d.Unemployment_Rate))])
+  const yScaleCrime = d3.scaleLinear()
+    .domain([0, Math.min(d3.max(filteredData, d => d[selectedCrime]), 3000)])
+    .range([height, 0]);
+
+  const yScaleUnemployment = d3.scaleLinear()
+    .domain([0, d3.max(filteredData, d => d.Unemployment_Rate)])
     .range([height, 0]);
 
   const lineCrime = d3.line()
     .x(d => xScale(d.data_year))
-    .y(d => yScale(d[selectedCrime]));
+    .y(d => yScaleCrime(d[selectedCrime]));
 
   const lineUnemployment = d3.line()
     .x(d => xScale(d.data_year))
-    .y(d => yScale(d.Unemployment_Rate));
+    .y(d => yScaleUnemployment(d.Unemployment_Rate));
 
   // Plot crime line
   svg.append('path')
@@ -104,13 +108,13 @@ function plotTimeSeries(data, selectedState, selectedCrime) {
   svg.append('path')
     .datum(filteredData)
     .attr('fill', 'none')
-    .attr('stroke', 'red') // You can change the color as needed
+    .attr('stroke', 'red') // Change color for the second line
     .attr('stroke-width', 2)
     .attr('d', lineUnemployment);
 
   // Create legend
   const legend = svg.append('g')
-    .attr('transform', `translate(${width - 200},${10})`);
+    .attr('transform', `translate(${width - 325},${310})`);
 
   legend.append('path')
     .attr('d', d3.line()([[0, 0], [30, 0]])) // Crime line
@@ -138,12 +142,32 @@ function plotTimeSeries(data, selectedState, selectedCrime) {
 
   // Add x-axis
   svg.append('g')
-  .attr('transform', `translate(0, ${height})`)
-  .call(d3.axisBottom(xScale).tickFormat(d3.format("d"))); // Use "d" format to remove commas
+    .attr('transform', `translate(0, ${height})`)
+    .call(d3.axisBottom(xScale).tickFormat(d3.format("d"))); // Use "d" format to remove commas
 
-  // Add y-axis
+  // Add y-axis for crime
   svg.append('g')
-    .call(d3.axisLeft(yScale));
+    .call(d3.axisLeft(yScaleCrime));
+
+  // Add label for crime y-axis
+  svg.append('text')
+    .attr('transform', 'rotate(-90)')
+    .attr('y', 0 - margin.left)
+    .attr('x', 0 - (height / 2))
+    .attr('dy', '1em')
+    .style('text-anchor', 'middle')
+    .text(`${selectedCrime} Rate`);
+
+ // Add second y-axis for unemployment rate
+svg.append('g')
+  .attr('transform', `translate(${width}, 0)`) // Move the second axis to the right
+  .call(d3.axisRight(yScaleUnemployment));
+
+svg.append('text')
+  .attr('transform', `translate(${width + 40}, ${height / 2}) rotate(-90)`)
+  .attr('dy', '0.71em')
+  .attr('fill', '#000')
+  .text('Unemployment Rate');
 
   // Add title with state and crime information
   svg.append('text')
@@ -151,7 +175,7 @@ function plotTimeSeries(data, selectedState, selectedCrime) {
     .attr('y', 0 - (margin.top / 2))
     .attr('text-anchor', 'middle')
     .style('font-size', '16px')
-    .text(`Unemployment Rate vs Crime Rate - ${selectedState}`);
+    .text(`Crime Rate vs Unemployment Rate - ${selectedState}`);
 
   // Add legend title
   legend.append('text')
@@ -162,5 +186,3 @@ function plotTimeSeries(data, selectedState, selectedCrime) {
     .style('font-weight', 'bold')
     .text('Legend');
 }
-
-
