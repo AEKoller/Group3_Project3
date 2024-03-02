@@ -64,13 +64,8 @@ function updatePlot() {
 function plotTimeSeries(data, selectedState, selectedCrime) {
   const filteredData = data.filter(entry => entry.state_abbr === selectedState);
 
-<<<<<<< HEAD
   const margin = { top: 50, right: 60, bottom: 100, left: 60 }; // Increased right margin
   const width = 650 - margin.left - margin.right;
-=======
-  const margin = { top: 20, right: 20, bottom: 50, left: 50 };
-  const width = 600 - margin.left - margin.right;
->>>>>>> d60ba5609e428d5fc86a0cc6cdd5584aeb42ca30
   const height = 400 - margin.top - margin.bottom;
 
   const svg = d3.select('#timeSeriesChart')
@@ -85,34 +80,21 @@ function plotTimeSeries(data, selectedState, selectedCrime) {
     .domain([d3.min(filteredData, d => d.data_year), d3.max(filteredData, d => d.data_year)])
     .range([0, width]);
 
-<<<<<<< HEAD
   const yScaleCrime = d3.scaleLinear()
     .domain([0, d3.max(filteredData, d => d[selectedCrime])])
     .range([height, 0]);
 
   const yScaleUnemployment = d3.scaleLinear()
     .domain([0, d3.max(filteredData, d => d.Unemployment_Rate)])
-=======
-  const yScale = d3.scaleLinear()
-    .domain([0, d3.max(filteredData, d => Math.max(d[selectedCrime], d.Unemployment_Rate))])
->>>>>>> d60ba5609e428d5fc86a0cc6cdd5584aeb42ca30
     .range([height, 0]);
 
   const lineCrime = d3.line()
     .x(d => xScale(d.data_year))
-<<<<<<< HEAD
     .y(d => yScaleCrime(d[selectedCrime]));
 
   const lineUnemployment = d3.line()
     .x(d => xScale(d.data_year))
     .y(d => yScaleUnemployment(d.Unemployment_Rate));
-=======
-    .y(d => yScale(d[selectedCrime]));
-
-  const lineUnemployment = d3.line()
-    .x(d => xScale(d.data_year))
-    .y(d => yScale(d.Unemployment_Rate));
->>>>>>> d60ba5609e428d5fc86a0cc6cdd5584aeb42ca30
 
   // Plot crime line
   svg.append('path')
@@ -126,21 +108,13 @@ function plotTimeSeries(data, selectedState, selectedCrime) {
   svg.append('path')
     .datum(filteredData)
     .attr('fill', 'none')
-<<<<<<< HEAD
     .attr('stroke', 'red') // Change color for the second line
-=======
-    .attr('stroke', 'red') // You can change the color as needed
->>>>>>> d60ba5609e428d5fc86a0cc6cdd5584aeb42ca30
     .attr('stroke-width', 2)
     .attr('d', lineUnemployment);
 
   // Create legend
   const legend = svg.append('g')
-<<<<<<< HEAD
-    .attr('transform', `translate(${width - 325},${330})`);
-=======
-    .attr('transform', `translate(${width - 200},${10})`);
->>>>>>> d60ba5609e428d5fc86a0cc6cdd5584aeb42ca30
+    .attr('transform', `translate(${width - 325},${310})`);
 
   legend.append('path')
     .attr('d', d3.line()([[0, 0], [30, 0]])) // Crime line
@@ -168,7 +142,6 @@ function plotTimeSeries(data, selectedState, selectedCrime) {
 
   // Add x-axis
   svg.append('g')
-<<<<<<< HEAD
     .attr('transform', `translate(0, ${height})`)
     .call(d3.axisBottom(xScale).tickFormat(d3.format("d"))); // Use "d" format to remove commas
 
@@ -195,14 +168,6 @@ svg.append('text')
   .attr('dy', '0.71em')
   .attr('fill', '#000')
   .text('Unemployment Rate');
-=======
-  .attr('transform', `translate(0, ${height})`)
-  .call(d3.axisBottom(xScale).tickFormat(d3.format("d"))); // Use "d" format to remove commas
-
-  // Add y-axis
-  svg.append('g')
-    .call(d3.axisLeft(yScale));
->>>>>>> d60ba5609e428d5fc86a0cc6cdd5584aeb42ca30
 
   // Add title with state and crime information
   svg.append('text')
@@ -210,11 +175,7 @@ svg.append('text')
     .attr('y', 0 - (margin.top / 2))
     .attr('text-anchor', 'middle')
     .style('font-size', '16px')
-<<<<<<< HEAD
     .text(`Crime Rate vs Unemployment Rate - ${selectedState}`);
-=======
-    .text(`Unemployment Rate vs Crime Rate - ${selectedState}`);
->>>>>>> d60ba5609e428d5fc86a0cc6cdd5584aeb42ca30
 
   // Add legend title
   legend.append('text')
@@ -227,7 +188,6 @@ svg.append('text')
 }
 
 
-<<<<<<< HEAD
 // function plotTimeSeries(data, selectedState, selectedCrime) {
 //   const filteredData = data.filter(entry => entry.state_abbr === selectedState);
 
@@ -331,5 +291,3 @@ svg.append('text')
 // }
 
 
-=======
->>>>>>> d60ba5609e428d5fc86a0cc6cdd5584aeb42ca30
