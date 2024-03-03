@@ -17,7 +17,7 @@ A collection of jupyter notebooks dedicated to pulling and cleaning data.
 Clean data produced within **data_cleaning** is pushed to this folder. There are also a number of .csv's that we pulled from .gov and .org websites. Additionally, there are .json files that have been converted from the .csv files so that they can be better used with out .js code.
 
 ### **Visualizations**
-There is where the visualizations for our project stored. Each visualization was created indiviaully and then combined within our **dashboard.js** file. 
+This is where the visualizations for our project are stored. Each visualization was created indiviaully and then combined within our **dashboard.js** file. 
 #### **BubbleMap** ####
 Bubble map that creates a bubble map based where the bubble's size is dependent on the reports of crime relative to the state. Map can be filtered by crime type. 
 #### **TimeSeriesPlot** ####
