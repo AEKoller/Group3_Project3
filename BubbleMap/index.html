@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Interactive Map</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="map"></div>
+  <div id="controls">
+    <label for="crimeSelector">Select Crime:</label>
+    <select id="crimeSelector"></select>
+    
+    <label for="yearSelector">Select Year:</label>
+    <select id="yearSelector"></select>
+  </div>
+
+  <script src="https://unpkg.com/d3@7"></script>
+  <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+  <script src="logic.js"></script>
+</body>
+</html>
