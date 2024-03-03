@@ -1,0 +1,8 @@
+/* Add your custom styles here */
+#map {
+    height: 60vh;
+  }
+  
+  #controls {
+    margin-top: 10px;
+  }
