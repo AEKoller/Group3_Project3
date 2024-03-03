@@ -1,1 +1,4052 @@
-[{"name": "AL_2014", "data": {"Unnamed: 0": 0, "data_year": 2014, "state_abbr": "AL", "population": 4843737}}, {"name": "AL_2015", "data": {"Unnamed: 0": 1, "data_year": 2015, "state_abbr": "AL", "population": 4854803}}, {"name": "AL_2016", "data": {"Unnamed: 0": 2, "data_year": 2016, "state_abbr": "AL", "population": 4866824}}, {"name": "AL_2017", "data": {"Unnamed: 0": 3, "data_year": 2017, "state_abbr": "AL", "population": 4877989}}, {"name": "AL_2018", "data": {"Unnamed: 0": 4, "data_year": 2018, "state_abbr": "AL", "population": 4891628}}, {"name": "AL_2019", "data": {"Unnamed: 0": 5, "data_year": 2019, "state_abbr": "AL", "population": 4907965}}, {"name": "AL_2020", "data": {"Unnamed: 0": 6, "data_year": 2020, "state_abbr": "AL", "population": 5031864}}, {"name": "AL_2021", "data": {"Unnamed: 0": 7, "data_year": 2021, "state_abbr": "AL", "population": 5050380}}, {"name": "AL_2022", "data": {"Unnamed: 0": 8, "data_year": 2022, "state_abbr": "AL", "population": 5073903}}, {"name": "AK_2014", "data": {"Unnamed: 0": 9, "data_year": 2014, "state_abbr": "AK", "population": 737075}}, {"name": "AK_2015", "data": {"Unnamed: 0": 10, "data_year": 2015, "state_abbr": "AK", "population": 738430}}, {"name": "AK_2016", "data": {"Unnamed: 0": 11, "data_year": 2016, "state_abbr": "AK", "population": 742575}}, {"name": "AK_2017", "data": {"Unnamed: 0": 12, "data_year": 2017, "state_abbr": "AK", "population": 740983}}, {"name": "AK_2018", "data": {"Unnamed: 0": 13, "data_year": 2018, "state_abbr": "AK", "population": 736624}}, {"name": "AK_2019", "data": {"Unnamed: 0": 14, "data_year": 2019, "state_abbr": "AK", "population": 733603}}, {"name": "AK_2020", "data": {"Unnamed: 0": 15, "data_year": 2020, "state_abbr": "AK", "population": 732964}}, {"name": "AK_2021", "data": {"Unnamed: 0": 16, "data_year": 2021, "state_abbr": "AK", "population": 734923}}, {"name": "AK_2022", "data": {"Unnamed: 0": 17, "data_year": 2022, "state_abbr": "AK", "population": 733276}}, {"name": "GA_2014", "data": {"Unnamed: 0": 18, "data_year": 2014, "state_abbr": "GA", "population": 10071204}}, {"name": "GA_2015", "data": {"Unnamed: 0": 19, "data_year": 2015, "state_abbr": "GA", "population": 10183353}}, {"name": "GA_2016", "data": {"Unnamed: 0": 20, "data_year": 2016, "state_abbr": "GA", "population": 10308442}}, {"name": "GA_2017", "data": {"Unnamed: 0": 21, "data_year": 2017, "state_abbr": "GA", "population": 10417031}}, {"name": "GA_2018", "data": {"Unnamed: 0": 22, "data_year": 2018, "state_abbr": "GA", "population": 10519389}}, {"name": "GA_2019", "data": {"Unnamed: 0": 23, "data_year": 2019, "state_abbr": "GA", "population": 10628020}}, {"name": "GA_2020", "data": {"Unnamed: 0": 24, "data_year": 2020, "state_abbr": "GA", "population": 10732390}}, {"name": "GA_2021", "data": {"Unnamed: 0": 25, "data_year": 2021, "state_abbr": "GA", "population": 10790385}}, {"name": "GA_2022", "data": {"Unnamed: 0": 26, "data_year": 2022, "state_abbr": "GA", "population": 10913150}}, {"name": "AZ_2014", "data": {"Unnamed: 0": 27, "data_year": 2014, "state_abbr": "AZ", "population": 6732873}}, {"name": "AZ_2015", "data": {"Unnamed: 0": 28, "data_year": 2015, "state_abbr": "AZ", "population": 6832810}}, {"name": "AZ_2016", "data": {"Unnamed: 0": 29, "data_year": 2016, "state_abbr": "AZ", "population": 6944767}}, {"name": "AZ_2017", "data": {"Unnamed: 0": 30, "data_year": 2017, "state_abbr": "AZ", "population": 7048088}}, {"name": "AZ_2018", "data": {"Unnamed: 0": 31, "data_year": 2018, "state_abbr": "AZ", "population": 7164228}}, {"name": "AZ_2019", "data": {"Unnamed: 0": 32, "data_year": 2019, "state_abbr": "AZ", "population": 7291843}}, {"name": "AZ_2020", "data": {"Unnamed: 0": 33, "data_year": 2020, "state_abbr": "AZ", "population": 7186683}}, {"name": "AZ_2021", "data": {"Unnamed: 0": 34, "data_year": 2021, "state_abbr": "AZ", "population": 7272487}}, {"name": "AZ_2022", "data": {"Unnamed: 0": 35, "data_year": 2022, "state_abbr": "AZ", "population": 7365684}}, {"name": "AR_2014", "data": {"Unnamed: 0": 36, "data_year": 2014, "state_abbr": "AR", "population": 2968759}}, {"name": "AR_2015", "data": {"Unnamed: 0": 37, "data_year": 2015, "state_abbr": "AR", "population": 2979732}}, {"name": "AR_2016", "data": {"Unnamed: 0": 38, "data_year": 2016, "state_abbr": "AR", "population": 2991815}}, {"name": "AR_2017", "data": {"Unnamed: 0": 39, "data_year": 2017, "state_abbr": "AR", "population": 3003855}}, {"name": "AR_2018", "data": {"Unnamed: 0": 40, "data_year": 2018, "state_abbr": "AR", "population": 3012161}}, {"name": "AR_2019", "data": {"Unnamed: 0": 41, "data_year": 2019, "state_abbr": "AR", "population": 3020985}}, {"name": "AR_2020", "data": {"Unnamed: 0": 42, "data_year": 2020, "state_abbr": "AR", "population": 3014348}}, {"name": "AR_2021", "data": {"Unnamed: 0": 43, "data_year": 2021, "state_abbr": "AR", "population": 3028443}}, {"name": "AR_2022", "data": {"Unnamed: 0": 44, "data_year": 2022, "state_abbr": "AR", "population": 3046404}}, {"name": "CA_2014", "data": {"Unnamed: 0": 45, "data_year": 2014, "state_abbr": "CA", "population": 38586706}}, {"name": "CA_2015", "data": {"Unnamed: 0": 46, "data_year": 2015, "state_abbr": "CA", "population": 38904296}}, {"name": "CA_2016", "data": {"Unnamed: 0": 47, "data_year": 2016, "state_abbr": "CA", "population": 39149186}}, {"name": "CA_2017", "data": {"Unnamed: 0": 48, "data_year": 2017, "state_abbr": "CA", "population": 39337785}}, {"name": "CA_2018", "data": {"Unnamed: 0": 49, "data_year": 2018, "state_abbr": "CA", "population": 39437463}}, {"name": "CA_2019", "data": {"Unnamed: 0": 50, "data_year": 2019, "state_abbr": "CA", "population": 39437610}}, {"name": "CA_2020", "data": {"Unnamed: 0": 51, "data_year": 2020, "state_abbr": "CA", "population": 39503200}}, {"name": "CA_2021", "data": {"Unnamed: 0": 52, "data_year": 2021, "state_abbr": "CA", "population": 39145060}}, {"name": "CA_2022", "data": {"Unnamed: 0": 53, "data_year": 2022, "state_abbr": "CA", "population": 39040616}}, {"name": "CO_2014", "data": {"Unnamed: 0": 54, "data_year": 2014, "state_abbr": "CO", "population": 5352637}}, {"name": "CO_2015", "data": {"Unnamed: 0": 55, "data_year": 2015, "state_abbr": "CO", "population": 5454328}}, {"name": "CO_2016", "data": {"Unnamed: 0": 56, "data_year": 2016, "state_abbr": "CO", "population": 5543844}}, {"name": "CO_2017", "data": {"Unnamed: 0": 57, "data_year": 2017, "state_abbr": "CO", "population": 5617421}}, {"name": "CO_2018", "data": {"Unnamed: 0": 58, "data_year": 2018, "state_abbr": "CO", "population": 5697155}}, {"name": "CO_2019", "data": {"Unnamed: 0": 59, "data_year": 2019, "state_abbr": "CO", "population": 5758486}}, {"name": "CO_2020", "data": {"Unnamed: 0": 60, "data_year": 2020, "state_abbr": "CO", "population": 5785219}}, {"name": "CO_2021", "data": {"Unnamed: 0": 61, "data_year": 2021, "state_abbr": "CO", "population": 5811596}}, {"name": "CO_2022", "data": {"Unnamed: 0": 62, "data_year": 2022, "state_abbr": "CO", "population": 5841039}}, {"name": "CT_2014", "data": {"Unnamed: 0": 63, "data_year": 2014, "state_abbr": "CT", "population": 3595697}}, {"name": "CT_2015", "data": {"Unnamed: 0": 64, "data_year": 2015, "state_abbr": "CT", "population": 3588561}}, {"name": "CT_2016", "data": {"Unnamed: 0": 65, "data_year": 2016, "state_abbr": "CT", "population": 3579830}}, {"name": "CT_2017", "data": {"Unnamed: 0": 66, "data_year": 2017, "state_abbr": "CT", "population": 3575324}}, {"name": "CT_2018", "data": {"Unnamed: 0": 67, "data_year": 2018, "state_abbr": "CT", "population": 3574561}}, {"name": "CT_2019", "data": {"Unnamed: 0": 68, "data_year": 2019, "state_abbr": "CT", "population": 3566022}}, {"name": "CT_2020", "data": {"Unnamed: 0": 69, "data_year": 2020, "state_abbr": "CT", "population": 3577586}}, {"name": "CT_2021", "data": {"Unnamed: 0": 70, "data_year": 2021, "state_abbr": "CT", "population": 3603691}}, {"name": "CT_2022", "data": {"Unnamed: 0": 71, "data_year": 2022, "state_abbr": "CT", "population": 3608706}}, {"name": "DE_2014", "data": {"Unnamed: 0": 72, "data_year": 2014, "state_abbr": "DE", "population": 933131}}, {"name": "DE_2015", "data": {"Unnamed: 0": 73, "data_year": 2015, "state_abbr": "DE", "population": 942065}}, {"name": "DE_2016", "data": {"Unnamed: 0": 74, "data_year": 2016, "state_abbr": "DE", "population": 949989}}, {"name": "DE_2017", "data": {"Unnamed: 0": 75, "data_year": 2017, "state_abbr": "DE", "population": 957942}}, {"name": "DE_2018", "data": {"Unnamed: 0": 76, "data_year": 2018, "state_abbr": "DE", "population": 966985}}, {"name": "DE_2019", "data": {"Unnamed: 0": 77, "data_year": 2019, "state_abbr": "DE", "population": 976668}}, {"name": "DE_2020", "data": {"Unnamed: 0": 78, "data_year": 2020, "state_abbr": "DE", "population": 991862}}, {"name": "DE_2021", "data": {"Unnamed: 0": 79, "data_year": 2021, "state_abbr": "DE", "population": 1004881}}, {"name": "DE_2022", "data": {"Unnamed: 0": 80, "data_year": 2022, "state_abbr": "DE", "population": 1019459}}, {"name": "FL_2014", "data": {"Unnamed: 0": 81, "data_year": 2014, "state_abbr": "FL", "population": 19853880}}, {"name": "FL_2015", "data": {"Unnamed: 0": 82, "data_year": 2015, "state_abbr": "FL", "population": 20219111}}, {"name": "FL_2016", "data": {"Unnamed: 0": 83, "data_year": 2016, "state_abbr": "FL", "population": 20627237}}, {"name": "FL_2017", "data": {"Unnamed: 0": 84, "data_year": 2017, "state_abbr": "FL", "population": 20977089}}, {"name": "FL_2018", "data": {"Unnamed: 0": 85, "data_year": 2018, "state_abbr": "FL", "population": 21254926}}, {"name": "FL_2019", "data": {"Unnamed: 0": 86, "data_year": 2019, "state_abbr": "FL", "population": 21492056}}, {"name": "FL_2020", "data": {"Unnamed: 0": 87, "data_year": 2020, "state_abbr": "FL", "population": 21591299}}, {"name": "FL_2021", "data": {"Unnamed: 0": 88, "data_year": 2021, "state_abbr": "FL", "population": 21830708}}, {"name": "FL_2022", "data": {"Unnamed: 0": 89, "data_year": 2022, "state_abbr": "FL", "population": 22245521}}, {"name": "HI_2014", "data": {"Unnamed: 0": 90, "data_year": 2014, "state_abbr": "HI", "population": 1415335}}, {"name": "HI_2015", "data": {"Unnamed: 0": 91, "data_year": 2015, "state_abbr": "HI", "population": 1422999}}, {"name": "HI_2016", "data": {"Unnamed: 0": 92, "data_year": 2016, "state_abbr": "HI", "population": 1428885}}, {"name": "HI_2017", "data": {"Unnamed: 0": 93, "data_year": 2017, "state_abbr": "HI", "population": 1425763}}, {"name": "HI_2018", "data": {"Unnamed: 0": 94, "data_year": 2018, "state_abbr": "HI", "population": 1423102}}, {"name": "HI_2019", "data": {"Unnamed: 0": 95, "data_year": 2019, "state_abbr": "HI", "population": 1415615}}, {"name": "HI_2020", "data": {"Unnamed: 0": 96, "data_year": 2020, "state_abbr": "HI", "population": 1451181}}, {"name": "HI_2021", "data": {"Unnamed: 0": 97, "data_year": 2021, "state_abbr": "HI", "population": 1446745}}, {"name": "HI_2022", "data": {"Unnamed: 0": 98, "data_year": 2022, "state_abbr": "HI", "population": 1439399}}, {"name": "ID_2014", "data": {"Unnamed: 0": 99, "data_year": 2014, "state_abbr": "ID", "population": 1632248}}, {"name": "ID_2015", "data": {"Unnamed: 0": 100, "data_year": 2015, "state_abbr": "ID", "population": 1652495}}, {"name": "ID_2016", "data": {"Unnamed: 0": 101, "data_year": 2016, "state_abbr": "ID", "population": 1684036}}, {"name": "ID_2017", "data": {"Unnamed: 0": 102, "data_year": 2017, "state_abbr": "ID", "population": 1719745}}, {"name": "ID_2018", "data": {"Unnamed: 0": 103, "data_year": 2018, "state_abbr": "ID", "population": 1752074}}, {"name": "ID_2019", "data": {"Unnamed: 0": 104, "data_year": 2019, "state_abbr": "ID", "population": 1789060}}, {"name": "ID_2020", "data": {"Unnamed: 0": 105, "data_year": 2020, "state_abbr": "ID", "population": 1849339}}, {"name": "ID_2021", "data": {"Unnamed: 0": 106, "data_year": 2021, "state_abbr": "ID", "population": 1904537}}, {"name": "ID_2022", "data": {"Unnamed: 0": 107, "data_year": 2022, "state_abbr": "ID", "population": 1938996}}, {"name": "IL_2014", "data": {"Unnamed: 0": 108, "data_year": 2014, "state_abbr": "IL", "population": 12885092}}, {"name": "IL_2015", "data": {"Unnamed: 0": 109, "data_year": 2015, "state_abbr": "IL", "population": 12859585}}, {"name": "IL_2016", "data": {"Unnamed: 0": 110, "data_year": 2016, "state_abbr": "IL", "population": 12821709}}, {"name": "IL_2017", "data": {"Unnamed: 0": 111, "data_year": 2017, "state_abbr": "IL", "population": 12779893}}, {"name": "IL_2018", "data": {"Unnamed: 0": 112, "data_year": 2018, "state_abbr": "IL", "population": 12724685}}, {"name": "IL_2019", "data": {"Unnamed: 0": 113, "data_year": 2019, "state_abbr": "IL", "population": 12667017}}, {"name": "IL_2020", "data": {"Unnamed: 0": 114, "data_year": 2020, "state_abbr": "IL", "population": 12790357}}, {"name": "IL_2021", "data": {"Unnamed: 0": 115, "data_year": 2021, "state_abbr": "IL", "population": 12690341}}, {"name": "IL_2022", "data": {"Unnamed: 0": 116, "data_year": 2022, "state_abbr": "IL", "population": 12582515}}, {"name": "IN_2014", "data": {"Unnamed: 0": 117, "data_year": 2014, "state_abbr": "IN", "population": 6596019}}, {"name": "IN_2015", "data": {"Unnamed: 0": 118, "data_year": 2015, "state_abbr": "IN", "population": 6611442}}, {"name": "IN_2016", "data": {"Unnamed: 0": 119, "data_year": 2016, "state_abbr": "IN", "population": 6637898}}, {"name": "IN_2017", "data": {"Unnamed: 0": 120, "data_year": 2017, "state_abbr": "IN", "population": 6662068}}, {"name": "IN_2018", "data": {"Unnamed: 0": 121, "data_year": 2018, "state_abbr": "IN", "population": 6698481}}, {"name": "IN_2019", "data": {"Unnamed: 0": 122, "data_year": 2019, "state_abbr": "IN", "population": 6731010}}, {"name": "IN_2020", "data": {"Unnamed: 0": 123, "data_year": 2020, "state_abbr": "IN", "population": 6789098}}, {"name": "IN_2021", "data": {"Unnamed: 0": 124, "data_year": 2021, "state_abbr": "IN", "population": 6813798}}, {"name": "IN_2022", "data": {"Unnamed: 0": 125, "data_year": 2022, "state_abbr": "IN", "population": 6832274}}, {"name": "IA_2014", "data": {"Unnamed: 0": 126, "data_year": 2014, "state_abbr": "IA", "population": 3110643}}, {"name": "IA_2015", "data": {"Unnamed: 0": 127, "data_year": 2015, "state_abbr": "IA", "population": 3122541}}, {"name": "IA_2016", "data": {"Unnamed: 0": 128, "data_year": 2016, "state_abbr": "IA", "population": 3133210}}, {"name": "IA_2017", "data": {"Unnamed: 0": 129, "data_year": 2017, "state_abbr": "IA", "population": 3143734}}, {"name": "IA_2018", "data": {"Unnamed: 0": 130, "data_year": 2018, "state_abbr": "IA", "population": 3149900}}, {"name": "IA_2019", "data": {"Unnamed: 0": 131, "data_year": 2019, "state_abbr": "IA", "population": 3159596}}, {"name": "IA_2020", "data": {"Unnamed: 0": 132, "data_year": 2020, "state_abbr": "IA", "population": 3190904}}, {"name": "IA_2021", "data": {"Unnamed: 0": 133, "data_year": 2021, "state_abbr": "IA", "population": 3197944}}, {"name": "IA_2022", "data": {"Unnamed: 0": 134, "data_year": 2022, "state_abbr": "IA", "population": 3199693}}, {"name": "KS_2014", "data": {"Unnamed: 0": 135, "data_year": 2014, "state_abbr": "KS", "population": 2901861}}, {"name": "KS_2015", "data": {"Unnamed: 0": 136, "data_year": 2015, "state_abbr": "KS", "population": 2910717}}, {"name": "KS_2016", "data": {"Unnamed: 0": 137, "data_year": 2016, "state_abbr": "KS", "population": 2912977}}, {"name": "KS_2017", "data": {"Unnamed: 0": 138, "data_year": 2017, "state_abbr": "KS", "population": 2910892}}, {"name": "KS_2018", "data": {"Unnamed: 0": 139, "data_year": 2018, "state_abbr": "KS", "population": 2912748}}, {"name": "KS_2019", "data": {"Unnamed: 0": 140, "data_year": 2019, "state_abbr": "KS", "population": 2912635}}, {"name": "KS_2020", "data": {"Unnamed: 0": 141, "data_year": 2020, "state_abbr": "KS", "population": 2938124}}, {"name": "KS_2021", "data": {"Unnamed: 0": 142, "data_year": 2021, "state_abbr": "KS", "population": 2937946}}, {"name": "KS_2022", "data": {"Unnamed: 0": 143, "data_year": 2022, "state_abbr": "KS", "population": 2936716}}, {"name": "KY_2014", "data": {"Unnamed: 0": 144, "data_year": 2014, "state_abbr": "KY", "population": 4416992}}, {"name": "KY_2015", "data": {"Unnamed: 0": 145, "data_year": 2015, "state_abbr": "KY", "population": 4429126}}, {"name": "KY_2016", "data": {"Unnamed: 0": 146, "data_year": 2016, "state_abbr": "KY", "population": 4440306}}, {"name": "KY_2017", "data": {"Unnamed: 0": 147, "data_year": 2017, "state_abbr": "KY", "population": 4455590}}, {"name": "KY_2018", "data": {"Unnamed: 0": 148, "data_year": 2018, "state_abbr": "KY", "population": 4464273}}, {"name": "KY_2019", "data": {"Unnamed: 0": 149, "data_year": 2019, "state_abbr": "KY", "population": 4472345}}, {"name": "KY_2020", "data": {"Unnamed: 0": 150, "data_year": 2020, "state_abbr": "KY", "population": 4508155}}, {"name": "KY_2021", "data": {"Unnamed: 0": 151, "data_year": 2021, "state_abbr": "KY", "population": 4507600}}, {"name": "KY_2022", "data": {"Unnamed: 0": 152, "data_year": 2022, "state_abbr": "KY", "population": 4511563}}, {"name": "LA_2014", "data": {"Unnamed: 0": 153, "data_year": 2014, "state_abbr": "LA", "population": 4645938}}, {"name": "LA_2015", "data": {"Unnamed: 0": 154, "data_year": 2015, "state_abbr": "LA", "population": 4666998}}, {"name": "LA_2016", "data": {"Unnamed: 0": 155, "data_year": 2016, "state_abbr": "LA", "population": 4681346}}, {"name": "LA_2017", "data": {"Unnamed: 0": 156, "data_year": 2017, "state_abbr": "LA", "population": 4673673}}, {"name": "LA_2018", "data": {"Unnamed: 0": 157, "data_year": 2018, "state_abbr": "LA", "population": 4664450}}, {"name": "LA_2019", "data": {"Unnamed: 0": 158, "data_year": 2019, "state_abbr": "LA", "population": 4658285}}, {"name": "LA_2020", "data": {"Unnamed: 0": 159, "data_year": 2020, "state_abbr": "LA", "population": 4652022}}, {"name": "LA_2021", "data": {"Unnamed: 0": 160, "data_year": 2021, "state_abbr": "LA", "population": 4627047}}, {"name": "LA_2022", "data": {"Unnamed: 0": 161, "data_year": 2022, "state_abbr": "LA", "population": 4588023}}, {"name": "ME_2014", "data": {"Unnamed: 0": 162, "data_year": 2014, "state_abbr": "ME", "population": 1331217}}, {"name": "ME_2015", "data": {"Unnamed: 0": 163, "data_year": 2015, "state_abbr": "ME", "population": 1329098}}, {"name": "ME_2016", "data": {"Unnamed: 0": 164, "data_year": 2016, "state_abbr": "ME", "population": 1332348}}, {"name": "ME_2017", "data": {"Unnamed: 0": 165, "data_year": 2017, "state_abbr": "ME", "population": 1335743}}, {"name": "ME_2018", "data": {"Unnamed: 0": 166, "data_year": 2018, "state_abbr": "ME", "population": 1340123}}, {"name": "ME_2019", "data": {"Unnamed: 0": 167, "data_year": 2019, "state_abbr": "ME", "population": 1345770}}, {"name": "ME_2020", "data": {"Unnamed: 0": 168, "data_year": 2020, "state_abbr": "ME", "population": 1364517}}, {"name": "ME_2021", "data": {"Unnamed: 0": 169, "data_year": 2021, "state_abbr": "ME", "population": 1378787}}, {"name": "ME_2022", "data": {"Unnamed: 0": 170, "data_year": 2022, "state_abbr": "ME", "population": 1389338}}, {"name": "MD_2014", "data": {"Unnamed: 0": 171, "data_year": 2014, "state_abbr": "MD", "population": 5960064}}, {"name": "MD_2015", "data": {"Unnamed: 0": 172, "data_year": 2015, "state_abbr": "MD", "population": 5988528}}, {"name": "MD_2016", "data": {"Unnamed: 0": 173, "data_year": 2016, "state_abbr": "MD", "population": 6007014}}, {"name": "MD_2017", "data": {"Unnamed: 0": 174, "data_year": 2017, "state_abbr": "MD", "population": 6028186}}, {"name": "MD_2018", "data": {"Unnamed: 0": 175, "data_year": 2018, "state_abbr": "MD", "population": 6042153}}, {"name": "MD_2019", "data": {"Unnamed: 0": 176, "data_year": 2019, "state_abbr": "MD", "population": 6054954}}, {"name": "MD_2020", "data": {"Unnamed: 0": 177, "data_year": 2020, "state_abbr": "MD", "population": 6173689}}, {"name": "MD_2021", "data": {"Unnamed: 0": 178, "data_year": 2021, "state_abbr": "MD", "population": 6175045}}, {"name": "MD_2022", "data": {"Unnamed: 0": 179, "data_year": 2022, "state_abbr": "MD", "population": 6163981}}, {"name": "MA_2014", "data": {"Unnamed: 0": 180, "data_year": 2014, "state_abbr": "MA", "population": 6764864}}, {"name": "MA_2015", "data": {"Unnamed: 0": 181, "data_year": 2015, "state_abbr": "MA", "population": 6797484}}, {"name": "MA_2016", "data": {"Unnamed: 0": 182, "data_year": 2016, "state_abbr": "MA", "population": 6827280}}, {"name": "MA_2017", "data": {"Unnamed: 0": 183, "data_year": 2017, "state_abbr": "MA", "population": 6863560}}, {"name": "MA_2018", "data": {"Unnamed: 0": 184, "data_year": 2018, "state_abbr": "MA", "population": 6885720}}, {"name": "MA_2019", "data": {"Unnamed: 0": 185, "data_year": 2019, "state_abbr": "MA", "population": 6894883}}, {"name": "MA_2020", "data": {"Unnamed: 0": 186, "data_year": 2020, "state_abbr": "MA", "population": 6997713}}, {"name": "MA_2021", "data": {"Unnamed: 0": 187, "data_year": 2021, "state_abbr": "MA", "population": 6991951}}, {"name": "MA_2022", "data": {"Unnamed: 0": 188, "data_year": 2022, "state_abbr": "MA", "population": 6982740}}, {"name": "MI_2014", "data": {"Unnamed: 0": 189, "data_year": 2014, "state_abbr": "MI", "population": 9932033}}, {"name": "MI_2015", "data": {"Unnamed: 0": 190, "data_year": 2015, "state_abbr": "MI", "population": 9934483}}, {"name": "MI_2016", "data": {"Unnamed: 0": 191, "data_year": 2016, "state_abbr": "MI", "population": 9954117}}, {"name": "MI_2017", "data": {"Unnamed: 0": 192, "data_year": 2017, "state_abbr": "MI", "population": 9976752}}, {"name": "MI_2018", "data": {"Unnamed: 0": 193, "data_year": 2018, "state_abbr": "MI", "population": 9987286}}, {"name": "MI_2019", "data": {"Unnamed: 0": 194, "data_year": 2019, "state_abbr": "MI", "population": 9984795}}, {"name": "MI_2020", "data": {"Unnamed: 0": 195, "data_year": 2020, "state_abbr": "MI", "population": 10070627}}, {"name": "MI_2021", "data": {"Unnamed: 0": 196, "data_year": 2021, "state_abbr": "MI", "population": 10038117}}, {"name": "MI_2022", "data": {"Unnamed: 0": 197, "data_year": 2022, "state_abbr": "MI", "population": 10033281}}, {"name": "MN_2014", "data": {"Unnamed: 0": 198, "data_year": 2014, "state_abbr": "MN", "population": 5452665}}, {"name": "MN_2015", "data": {"Unnamed: 0": 199, "data_year": 2015, "state_abbr": "MN", "population": 5484002}}, {"name": "MN_2016", "data": {"Unnamed: 0": 200, "data_year": 2016, "state_abbr": "MN", "population": 5525360}}, {"name": "MN_2017", "data": {"Unnamed: 0": 201, "data_year": 2017, "state_abbr": "MN", "population": 5569283}}, {"name": "MN_2018", "data": {"Unnamed: 0": 202, "data_year": 2018, "state_abbr": "MN", "population": 5608762}}, {"name": "MN_2019", "data": {"Unnamed: 0": 203, "data_year": 2019, "state_abbr": "MN", "population": 5640053}}, {"name": "MN_2020", "data": {"Unnamed: 0": 204, "data_year": 2020, "state_abbr": "MN", "population": 5710578}}, {"name": "MN_2021", "data": {"Unnamed: 0": 205, "data_year": 2021, "state_abbr": "MN", "population": 5717968}}, {"name": "MN_2022", "data": {"Unnamed: 0": 206, "data_year": 2022, "state_abbr": "MN", "population": 5714300}}, {"name": "MS_2014", "data": {"Unnamed: 0": 207, "data_year": 2014, "state_abbr": "MS", "population": 2991892}}, {"name": "MS_2015", "data": {"Unnamed: 0": 208, "data_year": 2015, "state_abbr": "MS", "population": 2990231}}, {"name": "MS_2016", "data": {"Unnamed: 0": 209, "data_year": 2016, "state_abbr": "MS", "population": 2990595}}, {"name": "MS_2017", "data": {"Unnamed: 0": 210, "data_year": 2017, "state_abbr": "MS", "population": 2990674}}, {"name": "MS_2018", "data": {"Unnamed: 0": 211, "data_year": 2018, "state_abbr": "MS", "population": 2982879}}, {"name": "MS_2019", "data": {"Unnamed: 0": 212, "data_year": 2019, "state_abbr": "MS", "population": 2978227}}, {"name": "MS_2020", "data": {"Unnamed: 0": 213, "data_year": 2020, "state_abbr": "MS", "population": 2958409}}, {"name": "MS_2021", "data": {"Unnamed: 0": 214, "data_year": 2021, "state_abbr": "MS", "population": 2949582}}, {"name": "MS_2022", "data": {"Unnamed: 0": 215, "data_year": 2022, "state_abbr": "MS", "population": 2938928}}, {"name": "MO_2014", "data": {"Unnamed: 0": 216, "data_year": 2014, "state_abbr": "MO", "population": 6059130}}, {"name": "MO_2015", "data": {"Unnamed: 0": 217, "data_year": 2015, "state_abbr": "MO", "population": 6075411}}, {"name": "MO_2016", "data": {"Unnamed: 0": 218, "data_year": 2016, "state_abbr": "MO", "population": 6091384}}, {"name": "MO_2017", "data": {"Unnamed: 0": 219, "data_year": 2017, "state_abbr": "MO", "population": 6111382}}, {"name": "MO_2018", "data": {"Unnamed: 0": 220, "data_year": 2018, "state_abbr": "MO", "population": 6125986}}, {"name": "MO_2019", "data": {"Unnamed: 0": 221, "data_year": 2019, "state_abbr": "MO", "population": 6140475}}, {"name": "MO_2020", "data": {"Unnamed: 0": 222, "data_year": 2020, "state_abbr": "MO", "population": 6154426}}, {"name": "MO_2021", "data": {"Unnamed: 0": 223, "data_year": 2021, "state_abbr": "MO", "population": 6170393}}, {"name": "MO_2022", "data": {"Unnamed: 0": 224, "data_year": 2022, "state_abbr": "MO", "population": 6177168}}, {"name": "MT_2014", "data": {"Unnamed: 0": 225, "data_year": 2014, "state_abbr": "MT", "population": 1022657}}, {"name": "MT_2015", "data": {"Unnamed: 0": 226, "data_year": 2015, "state_abbr": "MT", "population": 1031495}}, {"name": "MT_2016", "data": {"Unnamed: 0": 227, "data_year": 2016, "state_abbr": "MT", "population": 1042137}}, {"name": "MT_2017", "data": {"Unnamed: 0": 228, "data_year": 2017, "state_abbr": "MT", "population": 1053862}}, {"name": "MT_2018", "data": {"Unnamed: 0": 229, "data_year": 2018, "state_abbr": "MT", "population": 1061818}}, {"name": "MT_2019", "data": {"Unnamed: 0": 230, "data_year": 2019, "state_abbr": "MT", "population": 1070123}}, {"name": "MT_2020", "data": {"Unnamed: 0": 231, "data_year": 2020, "state_abbr": "MT", "population": 1087211}}, {"name": "MT_2021", "data": {"Unnamed: 0": 232, "data_year": 2021, "state_abbr": "MT", "population": 1106366}}, {"name": "MT_2022", "data": {"Unnamed: 0": 233, "data_year": 2022, "state_abbr": "MT", "population": 1122878}}, {"name": "NE_2014", "data": {"Unnamed: 0": 234, "data_year": 2014, "state_abbr": "NE", "population": 1879955}}, {"name": "NE_2015", "data": {"Unnamed: 0": 235, "data_year": 2015, "state_abbr": "NE", "population": 1892059}}, {"name": "NE_2016", "data": {"Unnamed: 0": 236, "data_year": 2016, "state_abbr": "NE", "population": 1906483}}, {"name": "NE_2017", "data": {"Unnamed: 0": 237, "data_year": 2017, "state_abbr": "NE", "population": 1916998}}, {"name": "NE_2018", "data": {"Unnamed: 0": 238, "data_year": 2018, "state_abbr": "NE", "population": 1925512}}, {"name": "NE_2019", "data": {"Unnamed: 0": 239, "data_year": 2019, "state_abbr": "NE", "population": 1932571}}, {"name": "NE_2020", "data": {"Unnamed: 0": 240, "data_year": 2020, "state_abbr": "NE", "population": 1963273}}, {"name": "NE_2021", "data": {"Unnamed: 0": 241, "data_year": 2021, "state_abbr": "NE", "population": 1964253}}, {"name": "NE_2022", "data": {"Unnamed: 0": 242, "data_year": 2022, "state_abbr": "NE", "population": 1968060}}, {"name": "NV_2014", "data": {"Unnamed: 0": 243, "data_year": 2014, "state_abbr": "NV", "population": 2818935}}, {"name": "NV_2015", "data": {"Unnamed: 0": 244, "data_year": 2015, "state_abbr": "NV", "population": 2868531}}, {"name": "NV_2016", "data": {"Unnamed: 0": 245, "data_year": 2016, "state_abbr": "NV", "population": 2919555}}, {"name": "NV_2017", "data": {"Unnamed: 0": 246, "data_year": 2017, "state_abbr": "NV", "population": 2972097}}, {"name": "NV_2018", "data": {"Unnamed: 0": 247, "data_year": 2018, "state_abbr": "NV", "population": 3030725}}, {"name": "NV_2019", "data": {"Unnamed: 0": 248, "data_year": 2019, "state_abbr": "NV", "population": 3090771}}, {"name": "NV_2020", "data": {"Unnamed: 0": 249, "data_year": 2020, "state_abbr": "NV", "population": 3115840}}, {"name": "NV_2021", "data": {"Unnamed: 0": 250, "data_year": 2021, "state_abbr": "NV", "population": 3146632}}, {"name": "NV_2022", "data": {"Unnamed: 0": 251, "data_year": 2022, "state_abbr": "NV", "population": 3177421}}, {"name": "NH_2014", "data": {"Unnamed: 0": 252, "data_year": 2014, "state_abbr": "NH", "population": 1334257}}, {"name": "NH_2015", "data": {"Unnamed: 0": 253, "data_year": 2015, "state_abbr": "NH", "population": 1337480}}, {"name": "NH_2016", "data": {"Unnamed: 0": 254, "data_year": 2016, "state_abbr": "NH", "population": 1343694}}, {"name": "NH_2017", "data": {"Unnamed: 0": 255, "data_year": 2017, "state_abbr": "NH", "population": 1350395}}, {"name": "NH_2018", "data": {"Unnamed: 0": 256, "data_year": 2018, "state_abbr": "NH", "population": 1355064}}, {"name": "NH_2019", "data": {"Unnamed: 0": 257, "data_year": 2019, "state_abbr": "NH", "population": 1360783}}, {"name": "NH_2020", "data": {"Unnamed: 0": 258, "data_year": 2020, "state_abbr": "NH", "population": 1378702}}, {"name": "NH_2021", "data": {"Unnamed: 0": 259, "data_year": 2021, "state_abbr": "NH", "population": 1387494}}, {"name": "NH_2022", "data": {"Unnamed: 0": 260, "data_year": 2022, "state_abbr": "NH", "population": 1399003}}, {"name": "NJ_2014", "data": {"Unnamed: 0": 261, "data_year": 2014, "state_abbr": "NJ", "population": 8867277}}, {"name": "NJ_2015", "data": {"Unnamed: 0": 262, "data_year": 2015, "state_abbr": "NJ", "population": 8870312}}, {"name": "NJ_2016", "data": {"Unnamed: 0": 263, "data_year": 2016, "state_abbr": "NJ", "population": 8873584}}, {"name": "NJ_2017", "data": {"Unnamed: 0": 264, "data_year": 2017, "state_abbr": "NJ", "population": 8888147}}, {"name": "NJ_2018", "data": {"Unnamed: 0": 265, "data_year": 2018, "state_abbr": "NJ", "population": 8891730}}, {"name": "NJ_2019", "data": {"Unnamed: 0": 266, "data_year": 2019, "state_abbr": "NJ", "population": 8891258}}, {"name": "NJ_2020", "data": {"Unnamed: 0": 267, "data_year": 2020, "state_abbr": "NJ", "population": 9272392}}, {"name": "NJ_2021", "data": {"Unnamed: 0": 268, "data_year": 2021, "state_abbr": "NJ", "population": 9269175}}, {"name": "NJ_2022", "data": {"Unnamed: 0": 269, "data_year": 2022, "state_abbr": "NJ", "population": 9260817}}, {"name": "NM_2014", "data": {"Unnamed: 0": 270, "data_year": 2014, "state_abbr": "NM", "population": 2090236}}, {"name": "NM_2015", "data": {"Unnamed: 0": 271, "data_year": 2015, "state_abbr": "NM", "population": 2090071}}, {"name": "NM_2016", "data": {"Unnamed: 0": 272, "data_year": 2016, "state_abbr": "NM", "population": 2092555}}, {"name": "NM_2017", "data": {"Unnamed: 0": 273, "data_year": 2017, "state_abbr": "NM", "population": 2092844}}, {"name": "NM_2018", "data": {"Unnamed: 0": 274, "data_year": 2018, "state_abbr": "NM", "population": 2093754}}, {"name": "NM_2019", "data": {"Unnamed: 0": 275, "data_year": 2019, "state_abbr": "NM", "population": 2099634}}, {"name": "NM_2020", "data": {"Unnamed: 0": 276, "data_year": 2020, "state_abbr": "NM", "population": 2118488}}, {"name": "NM_2021", "data": {"Unnamed: 0": 277, "data_year": 2021, "state_abbr": "NM", "population": 2116950}}, {"name": "NM_2022", "data": {"Unnamed: 0": 278, "data_year": 2022, "state_abbr": "NM", "population": 2113476}}, {"name": "NY_2014", "data": {"Unnamed: 0": 279, "data_year": 2014, "state_abbr": "NY", "population": 19653431}}, {"name": "NY_2015", "data": {"Unnamed: 0": 280, "data_year": 2015, "state_abbr": "NY", "population": 19657321}}, {"name": "NY_2016", "data": {"Unnamed: 0": 281, "data_year": 2016, "state_abbr": "NY", "population": 19636391}}, {"name": "NY_2017", "data": {"Unnamed: 0": 282, "data_year": 2017, "state_abbr": "NY", "population": 19593849}}, {"name": "NY_2018", "data": {"Unnamed: 0": 283, "data_year": 2018, "state_abbr": "NY", "population": 19544098}}, {"name": "NY_2019", "data": {"Unnamed: 0": 284, "data_year": 2019, "state_abbr": "NY", "population": 19463131}}, {"name": "NY_2020", "data": {"Unnamed: 0": 285, "data_year": 2020, "state_abbr": "NY", "population": 20104710}}, {"name": "NY_2021", "data": {"Unnamed: 0": 286, "data_year": 2021, "state_abbr": "NY", "population": 19854526}}, {"name": "NY_2022", "data": {"Unnamed: 0": 287, "data_year": 2022, "state_abbr": "NY", "population": 19673200}}, {"name": "NC_2014", "data": {"Unnamed: 0": 288, "data_year": 2014, "state_abbr": "NC", "population": 9937295}}, {"name": "NC_2015", "data": {"Unnamed: 0": 289, "data_year": 2015, "state_abbr": "NC", "population": 10037218}}, {"name": "NC_2016", "data": {"Unnamed: 0": 290, "data_year": 2016, "state_abbr": "NC", "population": 10161802}}, {"name": "NC_2017", "data": {"Unnamed: 0": 291, "data_year": 2017, "state_abbr": "NC", "population": 10275758}}, {"name": "NC_2018", "data": {"Unnamed: 0": 292, "data_year": 2018, "state_abbr": "NC", "population": 10391358}}, {"name": "NC_2019", "data": {"Unnamed: 0": 293, "data_year": 2019, "state_abbr": "NC", "population": 10501384}}, {"name": "NC_2020", "data": {"Unnamed: 0": 294, "data_year": 2020, "state_abbr": "NC", "population": 10453812}}, {"name": "NC_2021", "data": {"Unnamed: 0": 295, "data_year": 2021, "state_abbr": "NC", "population": 10567100}}, {"name": "NC_2022", "data": {"Unnamed: 0": 296, "data_year": 2022, "state_abbr": "NC", "population": 10695965}}, {"name": "ND_2014", "data": {"Unnamed: 0": 297, "data_year": 2014, "state_abbr": "ND", "population": 738736}}, {"name": "ND_2015", "data": {"Unnamed: 0": 298, "data_year": 2015, "state_abbr": "ND", "population": 755537}}, {"name": "ND_2016", "data": {"Unnamed: 0": 299, "data_year": 2016, "state_abbr": "ND", "population": 756114}}, {"name": "ND_2017", "data": {"Unnamed: 0": 300, "data_year": 2017, "state_abbr": "ND", "population": 756755}}, {"name": "ND_2018", "data": {"Unnamed: 0": 301, "data_year": 2018, "state_abbr": "ND", "population": 760062}}, {"name": "ND_2019", "data": {"Unnamed: 0": 302, "data_year": 2019, "state_abbr": "ND", "population": 763724}}, {"name": "ND_2020", "data": {"Unnamed: 0": 303, "data_year": 2020, "state_abbr": "ND", "population": 779563}}, {"name": "ND_2021", "data": {"Unnamed: 0": 304, "data_year": 2021, "state_abbr": "ND", "population": 777982}}, {"name": "ND_2022", "data": {"Unnamed: 0": 305, "data_year": 2022, "state_abbr": "ND", "population": 778912}}, {"name": "OH_2014", "data": {"Unnamed: 0": 306, "data_year": 2014, "state_abbr": "OH", "population": 11606573}}, {"name": "OH_2015", "data": {"Unnamed: 0": 307, "data_year": 2015, "state_abbr": "OH", "population": 11622315}}, {"name": "OH_2016", "data": {"Unnamed: 0": 308, "data_year": 2016, "state_abbr": "OH", "population": 11640060}}, {"name": "OH_2017", "data": {"Unnamed: 0": 309, "data_year": 2017, "state_abbr": "OH", "population": 11665706}}, {"name": "OH_2018", "data": {"Unnamed: 0": 310, "data_year": 2018, "state_abbr": "OH", "population": 11680892}}, {"name": "OH_2019", "data": {"Unnamed: 0": 311, "data_year": 2019, "state_abbr": "OH", "population": 11696507}}, {"name": "OH_2020", "data": {"Unnamed: 0": 312, "data_year": 2020, "state_abbr": "OH", "population": 11798292}}, {"name": "OH_2021", "data": {"Unnamed: 0": 313, "data_year": 2021, "state_abbr": "OH", "population": 11765227}}, {"name": "OH_2022", "data": {"Unnamed: 0": 314, "data_year": 2022, "state_abbr": "OH", "population": 11759697}}, {"name": "OK_2014", "data": {"Unnamed: 0": 315, "data_year": 2014, "state_abbr": "OK", "population": 3879187}}, {"name": "OK_2015", "data": {"Unnamed: 0": 316, "data_year": 2015, "state_abbr": "OK", "population": 3910518}}, {"name": "OK_2016", "data": {"Unnamed: 0": 317, "data_year": 2016, "state_abbr": "OK", "population": 3928143}}, {"name": "OK_2017", "data": {"Unnamed: 0": 318, "data_year": 2017, "state_abbr": "OK", "population": 3933602}}, {"name": "OK_2018", "data": {"Unnamed: 0": 319, "data_year": 2018, "state_abbr": "OK", "population": 3943488}}, {"name": "OK_2019", "data": {"Unnamed: 0": 320, "data_year": 2019, "state_abbr": "OK", "population": 3960676}}, {"name": "OK_2020", "data": {"Unnamed: 0": 321, "data_year": 2020, "state_abbr": "OK", "population": 3965234}}, {"name": "OK_2021", "data": {"Unnamed: 0": 322, "data_year": 2021, "state_abbr": "OK", "population": 3991634}}, {"name": "OK_2022", "data": {"Unnamed: 0": 323, "data_year": 2022, "state_abbr": "OK", "population": 4019271}}, {"name": "OR_2014", "data": {"Unnamed: 0": 324, "data_year": 2014, "state_abbr": "OR", "population": 3965447}}, {"name": "OR_2015", "data": {"Unnamed: 0": 325, "data_year": 2015, "state_abbr": "OR", "population": 4018542}}, {"name": "OR_2016", "data": {"Unnamed: 0": 326, "data_year": 2016, "state_abbr": "OR", "population": 4093271}}, {"name": "OR_2017", "data": {"Unnamed: 0": 327, "data_year": 2017, "state_abbr": "OR", "population": 4147294}}, {"name": "OR_2018", "data": {"Unnamed: 0": 328, "data_year": 2018, "state_abbr": "OR", "population": 4183538}}, {"name": "OR_2019", "data": {"Unnamed: 0": 329, "data_year": 2019, "state_abbr": "OR", "population": 4216116}}, {"name": "OR_2020", "data": {"Unnamed: 0": 330, "data_year": 2020, "state_abbr": "OR", "population": 4245044}}, {"name": "OR_2021", "data": {"Unnamed: 0": 331, "data_year": 2021, "state_abbr": "OR", "population": 4256465}}, {"name": "OR_2022", "data": {"Unnamed: 0": 332, "data_year": 2022, "state_abbr": "OR", "population": 4239379}}, {"name": "PA_2014", "data": {"Unnamed: 0": 333, "data_year": 2014, "state_abbr": "PA", "population": 12792392}}, {"name": "PA_2015", "data": {"Unnamed: 0": 334, "data_year": 2015, "state_abbr": "PA", "population": 12789838}}, {"name": "PA_2016", "data": {"Unnamed: 0": 335, "data_year": 2016, "state_abbr": "PA", "population": 12788468}}, {"name": "PA_2017", "data": {"Unnamed: 0": 336, "data_year": 2017, "state_abbr": "PA", "population": 12794679}}, {"name": "PA_2018", "data": {"Unnamed: 0": 337, "data_year": 2018, "state_abbr": "PA", "population": 12809107}}, {"name": "PA_2019", "data": {"Unnamed: 0": 338, "data_year": 2019, "state_abbr": "PA", "population": 12798883}}, {"name": "PA_2020", "data": {"Unnamed: 0": 339, "data_year": 2020, "state_abbr": "PA", "population": 12995477}}, {"name": "PA_2021", "data": {"Unnamed: 0": 340, "data_year": 2021, "state_abbr": "PA", "population": 13013614}}, {"name": "PA_2022", "data": {"Unnamed: 0": 341, "data_year": 2022, "state_abbr": "PA", "population": 12972091}}, {"name": "RI_2014", "data": {"Unnamed: 0": 342, "data_year": 2014, "state_abbr": "RI", "population": 1056511}}, {"name": "RI_2015", "data": {"Unnamed: 0": 343, "data_year": 2015, "state_abbr": "RI", "population": 1056886}}, {"name": "RI_2016", "data": {"Unnamed: 0": 344, "data_year": 2016, "state_abbr": "RI", "population": 1057816}}, {"name": "RI_2017", "data": {"Unnamed: 0": 345, "data_year": 2017, "state_abbr": "RI", "population": 1056554}}, {"name": "RI_2018", "data": {"Unnamed: 0": 346, "data_year": 2018, "state_abbr": "RI", "population": 1059338}}, {"name": "RI_2019", "data": {"Unnamed: 0": 347, "data_year": 2019, "state_abbr": "RI", "population": 1058158}}, {"name": "RI_2020", "data": {"Unnamed: 0": 348, "data_year": 2020, "state_abbr": "RI", "population": 1096444}}, {"name": "RI_2021", "data": {"Unnamed: 0": 349, "data_year": 2021, "state_abbr": "RI", "population": 1097092}}, {"name": "RI_2022", "data": {"Unnamed: 0": 350, "data_year": 2022, "state_abbr": "RI", "population": 1093842}}, {"name": "SC_2014", "data": {"Unnamed: 0": 351, "data_year": 2014, "state_abbr": "SC", "population": 4826858}}, {"name": "SC_2015", "data": {"Unnamed: 0": 352, "data_year": 2015, "state_abbr": "SC", "population": 4896006}}, {"name": "SC_2016", "data": {"Unnamed: 0": 353, "data_year": 2016, "state_abbr": "SC", "population": 4963031}}, {"name": "SC_2017", "data": {"Unnamed: 0": 354, "data_year": 2017, "state_abbr": "SC", "population": 5027102}}, {"name": "SC_2018", "data": {"Unnamed: 0": 355, "data_year": 2018, "state_abbr": "SC", "population": 5091702}}, {"name": "SC_2019", "data": {"Unnamed: 0": 356, "data_year": 2019, "state_abbr": "SC", "population": 5157702}}, {"name": "SC_2020", "data": {"Unnamed: 0": 357, "data_year": 2020, "state_abbr": "SC", "population": 5132151}}, {"name": "SC_2021", "data": {"Unnamed: 0": 358, "data_year": 2021, "state_abbr": "SC", "population": 5193848}}, {"name": "SC_2022", "data": {"Unnamed: 0": 359, "data_year": 2022, "state_abbr": "SC", "population": 5282955}}, {"name": "SD_2014", "data": {"Unnamed: 0": 360, "data_year": 2014, "state_abbr": "SD", "population": 849670}}, {"name": "SD_2015", "data": {"Unnamed: 0": 361, "data_year": 2015, "state_abbr": "SD", "population": 854663}}, {"name": "SD_2016", "data": {"Unnamed: 0": 362, "data_year": 2016, "state_abbr": "SD", "population": 863693}}, {"name": "SD_2017", "data": {"Unnamed: 0": 363, "data_year": 2017, "state_abbr": "SD", "population": 873732}}, {"name": "SD_2018", "data": {"Unnamed: 0": 364, "data_year": 2018, "state_abbr": "SD", "population": 879386}}, {"name": "SD_2019", "data": {"Unnamed: 0": 365, "data_year": 2019, "state_abbr": "SD", "population": 887127}}, {"name": "SD_2020", "data": {"Unnamed: 0": 366, "data_year": 2020, "state_abbr": "SD", "population": 887852}}, {"name": "SD_2021", "data": {"Unnamed: 0": 367, "data_year": 2021, "state_abbr": "SD", "population": 896299}}, {"name": "SD_2022", "data": {"Unnamed: 0": 368, "data_year": 2022, "state_abbr": "SD", "population": 909869}}, {"name": "TN_2014", "data": {"Unnamed: 0": 369, "data_year": 2014, "state_abbr": "TN", "population": 6544617}}, {"name": "TN_2015", "data": {"Unnamed: 0": 370, "data_year": 2015, "state_abbr": "TN", "population": 6595354}}, {"name": "TN_2016", "data": {"Unnamed: 0": 371, "data_year": 2016, "state_abbr": "TN", "population": 6651277}}, {"name": "TN_2017", "data": {"Unnamed: 0": 372, "data_year": 2017, "state_abbr": "TN", "population": 6714748}}, {"name": "TN_2018", "data": {"Unnamed: 0": 373, "data_year": 2018, "state_abbr": "TN", "population": 6778180}}, {"name": "TN_2019", "data": {"Unnamed: 0": 374, "data_year": 2019, "state_abbr": "TN", "population": 6830325}}, {"name": "TN_2020", "data": {"Unnamed: 0": 375, "data_year": 2020, "state_abbr": "TN", "population": 6926091}}, {"name": "TN_2021", "data": {"Unnamed: 0": 376, "data_year": 2021, "state_abbr": "TN", "population": 6963709}}, {"name": "TN_2022", "data": {"Unnamed: 0": 377, "data_year": 2022, "state_abbr": "TN", "population": 7048976}}, {"name": "TX_2014", "data": {"Unnamed: 0": 378, "data_year": 2014, "state_abbr": "TX", "population": 26963092}}, {"name": "TX_2015", "data": {"Unnamed: 0": 379, "data_year": 2015, "state_abbr": "TX", "population": 27468531}}, {"name": "TX_2016", "data": {"Unnamed: 0": 380, "data_year": 2016, "state_abbr": "TX", "population": 27914064}}, {"name": "TX_2017", "data": {"Unnamed: 0": 381, "data_year": 2017, "state_abbr": "TX", "population": 28291024}}, {"name": "TX_2018", "data": {"Unnamed: 0": 382, "data_year": 2018, "state_abbr": "TX", "population": 28624564}}, {"name": "TX_2019", "data": {"Unnamed: 0": 383, "data_year": 2019, "state_abbr": "TX", "population": 28986794}}, {"name": "TX_2020", "data": {"Unnamed: 0": 384, "data_year": 2020, "state_abbr": "TX", "population": 29234361}}, {"name": "TX_2021", "data": {"Unnamed: 0": 385, "data_year": 2021, "state_abbr": "TX", "population": 29561286}}, {"name": "TX_2022", "data": {"Unnamed: 0": 386, "data_year": 2022, "state_abbr": "TX", "population": 30029848}}, {"name": "UT_2014", "data": {"Unnamed: 0": 387, "data_year": 2014, "state_abbr": "UT", "population": 2938327}}, {"name": "UT_2015", "data": {"Unnamed: 0": 388, "data_year": 2015, "state_abbr": "UT", "population": 2983626}}, {"name": "UT_2016", "data": {"Unnamed: 0": 389, "data_year": 2016, "state_abbr": "UT", "population": 3044241}}, {"name": "UT_2017", "data": {"Unnamed: 0": 390, "data_year": 2017, "state_abbr": "UT", "population": 3103540}}, {"name": "UT_2018", "data": {"Unnamed: 0": 391, "data_year": 2018, "state_abbr": "UT", "population": 3155153}}, {"name": "UT_2019", "data": {"Unnamed: 0": 392, "data_year": 2019, "state_abbr": "UT", "population": 3203383}}, {"name": "UT_2020", "data": {"Unnamed: 0": 393, "data_year": 2020, "state_abbr": "UT", "population": 3283982}}, {"name": "UT_2021", "data": {"Unnamed: 0": 394, "data_year": 2021, "state_abbr": "UT", "population": 3339284}}, {"name": "UT_2022", "data": {"Unnamed: 0": 395, "data_year": 2022, "state_abbr": "UT", "population": 3381236}}, {"name": "VT_2014", "data": {"Unnamed: 0": 396, "data_year": 2014, "state_abbr": "VT", "population": 625693}}, {"name": "VT_2015", "data": {"Unnamed: 0": 397, "data_year": 2015, "state_abbr": "VT", "population": 625810}}, {"name": "VT_2016", "data": {"Unnamed: 0": 398, "data_year": 2016, "state_abbr": "VT", "population": 624366}}, {"name": "VT_2017", "data": {"Unnamed: 0": 399, "data_year": 2017, "state_abbr": "VT", "population": 625132}}, {"name": "VT_2018", "data": {"Unnamed: 0": 400, "data_year": 2018, "state_abbr": "VT", "population": 624802}}, {"name": "VT_2019", "data": {"Unnamed: 0": 401, "data_year": 2019, "state_abbr": "VT", "population": 624046}}, {"name": "VT_2020", "data": {"Unnamed: 0": 402, "data_year": 2020, "state_abbr": "VT", "population": 642936}}, {"name": "VT_2021", "data": {"Unnamed: 0": 403, "data_year": 2021, "state_abbr": "VT", "population": 647093}}, {"name": "VT_2022", "data": {"Unnamed: 0": 404, "data_year": 2022, "state_abbr": "VT", "population": 647110}}, {"name": "VA_2014", "data": {"Unnamed: 0": 405, "data_year": 2014, "state_abbr": "VA", "population": 8315430}}, {"name": "VA_2015", "data": {"Unnamed: 0": 406, "data_year": 2015, "state_abbr": "VA", "population": 8367303}}, {"name": "VA_2016", "data": {"Unnamed: 0": 407, "data_year": 2016, "state_abbr": "VA", "population": 8417651}}, {"name": "VA_2017", "data": {"Unnamed: 0": 408, "data_year": 2017, "state_abbr": "VA", "population": 8471011}}, {"name": "VA_2018", "data": {"Unnamed: 0": 409, "data_year": 2018, "state_abbr": "VA", "population": 8510920}}, {"name": "VA_2019", "data": {"Unnamed: 0": 410, "data_year": 2019, "state_abbr": "VA", "population": 8556642}}, {"name": "VA_2020", "data": {"Unnamed: 0": 411, "data_year": 2020, "state_abbr": "VA", "population": 8637193}}, {"name": "VA_2021", "data": {"Unnamed: 0": 412, "data_year": 2021, "state_abbr": "VA", "population": 8657348}}, {"name": "VA_2022", "data": {"Unnamed: 0": 413, "data_year": 2022, "state_abbr": "VA", "population": 8679099}}, {"name": "WA_2014", "data": {"Unnamed: 0": 414, "data_year": 2014, "state_abbr": "WA", "population": 7057531}}, {"name": "WA_2015", "data": {"Unnamed: 0": 415, "data_year": 2015, "state_abbr": "WA", "population": 7167287}}, {"name": "WA_2016", "data": {"Unnamed: 0": 416, "data_year": 2016, "state_abbr": "WA", "population": 7299961}}, {"name": "WA_2017", "data": {"Unnamed: 0": 417, "data_year": 2017, "state_abbr": "WA", "population": 7427951}}, {"name": "WA_2018", "data": {"Unnamed: 0": 418, "data_year": 2018, "state_abbr": "WA", "population": 7526793}}, {"name": "WA_2019", "data": {"Unnamed: 0": 419, "data_year": 2019, "state_abbr": "WA", "population": 7614024}}, {"name": "WA_2020", "data": {"Unnamed: 0": 420, "data_year": 2020, "state_abbr": "WA", "population": 7724566}}, {"name": "WA_2021", "data": {"Unnamed: 0": 421, "data_year": 2021, "state_abbr": "WA", "population": 7741433}}, {"name": "WA_2022", "data": {"Unnamed: 0": 422, "data_year": 2022, "state_abbr": "WA", "population": 7784477}}, {"name": "WV_2014", "data": {"Unnamed: 0": 423, "data_year": 2014, "state_abbr": "WV", "population": 1850569}}, {"name": "WV_2015", "data": {"Unnamed: 0": 424, "data_year": 2015, "state_abbr": "WV", "population": 1843332}}, {"name": "WV_2016", "data": {"Unnamed: 0": 425, "data_year": 2016, "state_abbr": "WV", "population": 1832435}}, {"name": "WV_2017", "data": {"Unnamed: 0": 426, "data_year": 2017, "state_abbr": "WV", "population": 1818683}}, {"name": "WV_2018", "data": {"Unnamed: 0": 427, "data_year": 2018, "state_abbr": "WV", "population": 1805953}}, {"name": "WV_2019", "data": {"Unnamed: 0": 428, "data_year": 2019, "state_abbr": "WV", "population": 1795263}}, {"name": "WV_2020", "data": {"Unnamed: 0": 429, "data_year": 2020, "state_abbr": "WV", "population": 1791562}}, {"name": "WV_2021", "data": {"Unnamed: 0": 430, "data_year": 2021, "state_abbr": "WV", "population": 1785249}}, {"name": "WV_2022", "data": {"Unnamed: 0": 431, "data_year": 2022, "state_abbr": "WV", "population": 1774035}}, {"name": "WI_2014", "data": {"Unnamed: 0": 432, "data_year": 2014, "state_abbr": "WI", "population": 5753199}}, {"name": "WI_2015", "data": {"Unnamed: 0": 433, "data_year": 2015, "state_abbr": "WI", "population": 5762927}}, {"name": "WI_2016", "data": {"Unnamed: 0": 434, "data_year": 2016, "state_abbr": "WI", "population": 5775170}}, {"name": "WI_2017", "data": {"Unnamed: 0": 435, "data_year": 2017, "state_abbr": "WI", "population": 5793147}}, {"name": "WI_2018", "data": {"Unnamed: 0": 436, "data_year": 2018, "state_abbr": "WI", "population": 5809319}}, {"name": "WI_2019", "data": {"Unnamed: 0": 437, "data_year": 2019, "state_abbr": "WI", "population": 5824581}}, {"name": "WI_2020", "data": {"Unnamed: 0": 438, "data_year": 2020, "state_abbr": "WI", "population": 5896700}}, {"name": "WI_2021", "data": {"Unnamed: 0": 439, "data_year": 2021, "state_abbr": "WI", "population": 5879978}}, {"name": "WI_2022", "data": {"Unnamed: 0": 440, "data_year": 2022, "state_abbr": "WI", "population": 5890543}}, {"name": "WY_2014", "data": {"Unnamed: 0": 441, "data_year": 2014, "state_abbr": "WY", "population": 583159}}, {"name": "WY_2015", "data": {"Unnamed: 0": 442, "data_year": 2015, "state_abbr": "WY", "population": 586389}}, {"name": "WY_2016", "data": {"Unnamed: 0": 443, "data_year": 2016, "state_abbr": "WY", "population": 585243}}, {"name": "WY_2017", "data": {"Unnamed: 0": 444, "data_year": 2017, "state_abbr": "WY", "population": 579994}}, {"name": "WY_2018", "data": {"Unnamed: 0": 445, "data_year": 2018, "state_abbr": "WY", "population": 579054}}, {"name": "WY_2019", "data": {"Unnamed: 0": 446, "data_year": 2019, "state_abbr": "WY", "population": 580116}}, {"name": "WY_2020", "data": {"Unnamed: 0": 447, "data_year": 2020, "state_abbr": "WY", "population": 577664}}, {"name": "WY_2021", "data": {"Unnamed: 0": 448, "data_year": 2021, "state_abbr": "WY", "population": 579548}}, {"name": "WY_2022", "data": {"Unnamed: 0": 449, "data_year": 2022, "state_abbr": "WY", "population": 581629}}]
+[
+    {
+        "name": "AL_2014",
+        "data": {
+            "Unnamed: 0": 0,
+            "data_year": 2014,
+            "state_abbr": "AL",
+            "population": 4843737
+        }
+    },
+    {
+        "name": "AL_2015",
+        "data": {
+            "Unnamed: 0": 1,
+            "data_year": 2015,
+            "state_abbr": "AL",
+            "population": 4854803
+        }
+    },
+    {
+        "name": "AL_2016",
+        "data": {
+            "Unnamed: 0": 2,
+            "data_year": 2016,
+            "state_abbr": "AL",
+            "population": 4866824
+        }
+    },
+    {
+        "name": "AL_2017",
+        "data": {
+            "Unnamed: 0": 3,
+            "data_year": 2017,
+            "state_abbr": "AL",
+            "population": 4877989
+        }
+    },
+    {
+        "name": "AL_2018",
+        "data": {
+            "Unnamed: 0": 4,
+            "data_year": 2018,
+            "state_abbr": "AL",
+            "population": 4891628
+        }
+    },
+    {
+        "name": "AL_2019",
+        "data": {
+            "Unnamed: 0": 5,
+            "data_year": 2019,
+            "state_abbr": "AL",
+            "population": 4907965
+        }
+    },
+    {
+        "name": "AL_2020",
+        "data": {
+            "Unnamed: 0": 6,
+            "data_year": 2020,
+            "state_abbr": "AL",
+            "population": 5031864
+        }
+    },
+    {
+        "name": "AL_2021",
+        "data": {
+            "Unnamed: 0": 7,
+            "data_year": 2021,
+            "state_abbr": "AL",
+            "population": 5050380
+        }
+    },
+    {
+        "name": "AL_2022",
+        "data": {
+            "Unnamed: 0": 8,
+            "data_year": 2022,
+            "state_abbr": "AL",
+            "population": 5073903
+        }
+    },
+    {
+        "name": "AK_2014",
+        "data": {
+            "Unnamed: 0": 9,
+            "data_year": 2014,
+            "state_abbr": "AK",
+            "population": 737075
+        }
+    },
+    {
+        "name": "AK_2015",
+        "data": {
+            "Unnamed: 0": 10,
+            "data_year": 2015,
+            "state_abbr": "AK",
+            "population": 738430
+        }
+    },
+    {
+        "name": "AK_2016",
+        "data": {
+            "Unnamed: 0": 11,
+            "data_year": 2016,
+            "state_abbr": "AK",
+            "population": 742575
+        }
+    },
+    {
+        "name": "AK_2017",
+        "data": {
+            "Unnamed: 0": 12,
+            "data_year": 2017,
+            "state_abbr": "AK",
+            "population": 740983
+        }
+    },
+    {
+        "name": "AK_2018",
+        "data": {
+            "Unnamed: 0": 13,
+            "data_year": 2018,
+            "state_abbr": "AK",
+            "population": 736624
+        }
+    },
+    {
+        "name": "AK_2019",
+        "data": {
+            "Unnamed: 0": 14,
+            "data_year": 2019,
+            "state_abbr": "AK",
+            "population": 733603
+        }
+    },
+    {
+        "name": "AK_2020",
+        "data": {
+            "Unnamed: 0": 15,
+            "data_year": 2020,
+            "state_abbr": "AK",
+            "population": 732964
+        }
+    },
+    {
+        "name": "AK_2021",
+        "data": {
+            "Unnamed: 0": 16,
+            "data_year": 2021,
+            "state_abbr": "AK",
+            "population": 734923
+        }
+    },
+    {
+        "name": "AK_2022",
+        "data": {
+            "Unnamed: 0": 17,
+            "data_year": 2022,
+            "state_abbr": "AK",
+            "population": 733276
+        }
+    },
+    {
+        "name": "GA_2014",
+        "data": {
+            "Unnamed: 0": 18,
+            "data_year": 2014,
+            "state_abbr": "GA",
+            "population": 10071204
+        }
+    },
+    {
+        "name": "GA_2015",
+        "data": {
+            "Unnamed: 0": 19,
+            "data_year": 2015,
+            "state_abbr": "GA",
+            "population": 10183353
+        }
+    },
+    {
+        "name": "GA_2016",
+        "data": {
+            "Unnamed: 0": 20,
+            "data_year": 2016,
+            "state_abbr": "GA",
+            "population": 10308442
+        }
+    },
+    {
+        "name": "GA_2017",
+        "data": {
+            "Unnamed: 0": 21,
+            "data_year": 2017,
+            "state_abbr": "GA",
+            "population": 10417031
+        }
+    },
+    {
+        "name": "GA_2018",
+        "data": {
+            "Unnamed: 0": 22,
+            "data_year": 2018,
+            "state_abbr": "GA",
+            "population": 10519389
+        }
+    },
+    {
+        "name": "GA_2019",
+        "data": {
+            "Unnamed: 0": 23,
+            "data_year": 2019,
+            "state_abbr": "GA",
+            "population": 10628020
+        }
+    },
+    {
+        "name": "GA_2020",
+        "data": {
+            "Unnamed: 0": 24,
+            "data_year": 2020,
+            "state_abbr": "GA",
+            "population": 10732390
+        }
+    },
+    {
+        "name": "GA_2021",
+        "data": {
+            "Unnamed: 0": 25,
+            "data_year": 2021,
+            "state_abbr": "GA",
+            "population": 10790385
+        }
+    },
+    {
+        "name": "GA_2022",
+        "data": {
+            "Unnamed: 0": 26,
+            "data_year": 2022,
+            "state_abbr": "GA",
+            "population": 10913150
+        }
+    },
+    {
+        "name": "AZ_2014",
+        "data": {
+            "Unnamed: 0": 27,
+            "data_year": 2014,
+            "state_abbr": "AZ",
+            "population": 6732873
+        }
+    },
+    {
+        "name": "AZ_2015",
+        "data": {
+            "Unnamed: 0": 28,
+            "data_year": 2015,
+            "state_abbr": "AZ",
+            "population": 6832810
+        }
+    },
+    {
+        "name": "AZ_2016",
+        "data": {
+            "Unnamed: 0": 29,
+            "data_year": 2016,
+            "state_abbr": "AZ",
+            "population": 6944767
+        }
+    },
+    {
+        "name": "AZ_2017",
+        "data": {
+            "Unnamed: 0": 30,
+            "data_year": 2017,
+            "state_abbr": "AZ",
+            "population": 7048088
+        }
+    },
+    {
+        "name": "AZ_2018",
+        "data": {
+            "Unnamed: 0": 31,
+            "data_year": 2018,
+            "state_abbr": "AZ",
+            "population": 7164228
+        }
+    },
+    {
+        "name": "AZ_2019",
+        "data": {
+            "Unnamed: 0": 32,
+            "data_year": 2019,
+            "state_abbr": "AZ",
+            "population": 7291843
+        }
+    },
+    {
+        "name": "AZ_2020",
+        "data": {
+            "Unnamed: 0": 33,
+            "data_year": 2020,
+            "state_abbr": "AZ",
+            "population": 7186683
+        }
+    },
+    {
+        "name": "AZ_2021",
+        "data": {
+            "Unnamed: 0": 34,
+            "data_year": 2021,
+            "state_abbr": "AZ",
+            "population": 7272487
+        }
+    },
+    {
+        "name": "AZ_2022",
+        "data": {
+            "Unnamed: 0": 35,
+            "data_year": 2022,
+            "state_abbr": "AZ",
+            "population": 7365684
+        }
+    },
+    {
+        "name": "AR_2014",
+        "data": {
+            "Unnamed: 0": 36,
+            "data_year": 2014,
+            "state_abbr": "AR",
+            "population": 2968759
+        }
+    },
+    {
+        "name": "AR_2015",
+        "data": {
+            "Unnamed: 0": 37,
+            "data_year": 2015,
+            "state_abbr": "AR",
+            "population": 2979732
+        }
+    },
+    {
+        "name": "AR_2016",
+        "data": {
+            "Unnamed: 0": 38,
+            "data_year": 2016,
+            "state_abbr": "AR",
+            "population": 2991815
+        }
+    },
+    {
+        "name": "AR_2017",
+        "data": {
+            "Unnamed: 0": 39,
+            "data_year": 2017,
+            "state_abbr": "AR",
+            "population": 3003855
+        }
+    },
+    {
+        "name": "AR_2018",
+        "data": {
+            "Unnamed: 0": 40,
+            "data_year": 2018,
+            "state_abbr": "AR",
+            "population": 3012161
+        }
+    },
+    {
+        "name": "AR_2019",
+        "data": {
+            "Unnamed: 0": 41,
+            "data_year": 2019,
+            "state_abbr": "AR",
+            "population": 3020985
+        }
+    },
+    {
+        "name": "AR_2020",
+        "data": {
+            "Unnamed: 0": 42,
+            "data_year": 2020,
+            "state_abbr": "AR",
+            "population": 3014348
+        }
+    },
+    {
+        "name": "AR_2021",
+        "data": {
+            "Unnamed: 0": 43,
+            "data_year": 2021,
+            "state_abbr": "AR",
+            "population": 3028443
+        }
+    },
+    {
+        "name": "AR_2022",
+        "data": {
+            "Unnamed: 0": 44,
+            "data_year": 2022,
+            "state_abbr": "AR",
+            "population": 3046404
+        }
+    },
+    {
+        "name": "CA_2014",
+        "data": {
+            "Unnamed: 0": 45,
+            "data_year": 2014,
+            "state_abbr": "CA",
+            "population": 38586706
+        }
+    },
+    {
+        "name": "CA_2015",
+        "data": {
+            "Unnamed: 0": 46,
+            "data_year": 2015,
+            "state_abbr": "CA",
+            "population": 38904296
+        }
+    },
+    {
+        "name": "CA_2016",
+        "data": {
+            "Unnamed: 0": 47,
+            "data_year": 2016,
+            "state_abbr": "CA",
+            "population": 39149186
+        }
+    },
+    {
+        "name": "CA_2017",
+        "data": {
+            "Unnamed: 0": 48,
+            "data_year": 2017,
+            "state_abbr": "CA",
+            "population": 39337785
+        }
+    },
+    {
+        "name": "CA_2018",
+        "data": {
+            "Unnamed: 0": 49,
+            "data_year": 2018,
+            "state_abbr": "CA",
+            "population": 39437463
+        }
+    },
+    {
+        "name": "CA_2019",
+        "data": {
+            "Unnamed: 0": 50,
+            "data_year": 2019,
+            "state_abbr": "CA",
+            "population": 39437610
+        }
+    },
+    {
+        "name": "CA_2020",
+        "data": {
+            "Unnamed: 0": 51,
+            "data_year": 2020,
+            "state_abbr": "CA",
+            "population": 39503200
+        }
+    },
+    {
+        "name": "CA_2021",
+        "data": {
+            "Unnamed: 0": 52,
+            "data_year": 2021,
+            "state_abbr": "CA",
+            "population": 39145060
+        }
+    },
+    {
+        "name": "CA_2022",
+        "data": {
+            "Unnamed: 0": 53,
+            "data_year": 2022,
+            "state_abbr": "CA",
+            "population": 39040616
+        }
+    },
+    {
+        "name": "CO_2014",
+        "data": {
+            "Unnamed: 0": 54,
+            "data_year": 2014,
+            "state_abbr": "CO",
+            "population": 5352637
+        }
+    },
+    {
+        "name": "CO_2015",
+        "data": {
+            "Unnamed: 0": 55,
+            "data_year": 2015,
+            "state_abbr": "CO",
+            "population": 5454328
+        }
+    },
+    {
+        "name": "CO_2016",
+        "data": {
+            "Unnamed: 0": 56,
+            "data_year": 2016,
+            "state_abbr": "CO",
+            "population": 5543844
+        }
+    },
+    {
+        "name": "CO_2017",
+        "data": {
+            "Unnamed: 0": 57,
+            "data_year": 2017,
+            "state_abbr": "CO",
+            "population": 5617421
+        }
+    },
+    {
+        "name": "CO_2018",
+        "data": {
+            "Unnamed: 0": 58,
+            "data_year": 2018,
+            "state_abbr": "CO",
+            "population": 5697155
+        }
+    },
+    {
+        "name": "CO_2019",
+        "data": {
+            "Unnamed: 0": 59,
+            "data_year": 2019,
+            "state_abbr": "CO",
+            "population": 5758486
+        }
+    },
+    {
+        "name": "CO_2020",
+        "data": {
+            "Unnamed: 0": 60,
+            "data_year": 2020,
+            "state_abbr": "CO",
+            "population": 5785219
+        }
+    },
+    {
+        "name": "CO_2021",
+        "data": {
+            "Unnamed: 0": 61,
+            "data_year": 2021,
+            "state_abbr": "CO",
+            "population": 5811596
+        }
+    },
+    {
+        "name": "CO_2022",
+        "data": {
+            "Unnamed: 0": 62,
+            "data_year": 2022,
+            "state_abbr": "CO",
+            "population": 5841039
+        }
+    },
+    {
+        "name": "CT_2014",
+        "data": {
+            "Unnamed: 0": 63,
+            "data_year": 2014,
+            "state_abbr": "CT",
+            "population": 3595697
+        }
+    },
+    {
+        "name": "CT_2015",
+        "data": {
+            "Unnamed: 0": 64,
+            "data_year": 2015,
+            "state_abbr": "CT",
+            "population": 3588561
+        }
+    },
+    {
+        "name": "CT_2016",
+        "data": {
+            "Unnamed: 0": 65,
+            "data_year": 2016,
+            "state_abbr": "CT",
+            "population": 3579830
+        }
+    },
+    {
+        "name": "CT_2017",
+        "data": {
+            "Unnamed: 0": 66,
+            "data_year": 2017,
+            "state_abbr": "CT",
+            "population": 3575324
+        }
+    },
+    {
+        "name": "CT_2018",
+        "data": {
+            "Unnamed: 0": 67,
+            "data_year": 2018,
+            "state_abbr": "CT",
+            "population": 3574561
+        }
+    },
+    {
+        "name": "CT_2019",
+        "data": {
+            "Unnamed: 0": 68,
+            "data_year": 2019,
+            "state_abbr": "CT",
+            "population": 3566022
+        }
+    },
+    {
+        "name": "CT_2020",
+        "data": {
+            "Unnamed: 0": 69,
+            "data_year": 2020,
+            "state_abbr": "CT",
+            "population": 3577586
+        }
+    },
+    {
+        "name": "CT_2021",
+        "data": {
+            "Unnamed: 0": 70,
+            "data_year": 2021,
+            "state_abbr": "CT",
+            "population": 3603691
+        }
+    },
+    {
+        "name": "CT_2022",
+        "data": {
+            "Unnamed: 0": 71,
+            "data_year": 2022,
+            "state_abbr": "CT",
+            "population": 3608706
+        }
+    },
+    {
+        "name": "DE_2014",
+        "data": {
+            "Unnamed: 0": 72,
+            "data_year": 2014,
+            "state_abbr": "DE",
+            "population": 933131
+        }
+    },
+    {
+        "name": "DE_2015",
+        "data": {
+            "Unnamed: 0": 73,
+            "data_year": 2015,
+            "state_abbr": "DE",
+            "population": 942065
+        }
+    },
+    {
+        "name": "DE_2016",
+        "data": {
+            "Unnamed: 0": 74,
+            "data_year": 2016,
+            "state_abbr": "DE",
+            "population": 949989
+        }
+    },
+    {
+        "name": "DE_2017",
+        "data": {
+            "Unnamed: 0": 75,
+            "data_year": 2017,
+            "state_abbr": "DE",
+            "population": 957942
+        }
+    },
+    {
+        "name": "DE_2018",
+        "data": {
+            "Unnamed: 0": 76,
+            "data_year": 2018,
+            "state_abbr": "DE",
+            "population": 966985
+        }
+    },
+    {
+        "name": "DE_2019",
+        "data": {
+            "Unnamed: 0": 77,
+            "data_year": 2019,
+            "state_abbr": "DE",
+            "population": 976668
+        }
+    },
+    {
+        "name": "DE_2020",
+        "data": {
+            "Unnamed: 0": 78,
+            "data_year": 2020,
+            "state_abbr": "DE",
+            "population": 991862
+        }
+    },
+    {
+        "name": "DE_2021",
+        "data": {
+            "Unnamed: 0": 79,
+            "data_year": 2021,
+            "state_abbr": "DE",
+            "population": 1004881
+        }
+    },
+    {
+        "name": "DE_2022",
+        "data": {
+            "Unnamed: 0": 80,
+            "data_year": 2022,
+            "state_abbr": "DE",
+            "population": 1019459
+        }
+    },
+    {
+        "name": "FL_2014",
+        "data": {
+            "Unnamed: 0": 81,
+            "data_year": 2014,
+            "state_abbr": "FL",
+            "population": 19853880
+        }
+    },
+    {
+        "name": "FL_2015",
+        "data": {
+            "Unnamed: 0": 82,
+            "data_year": 2015,
+            "state_abbr": "FL",
+            "population": 20219111
+        }
+    },
+    {
+        "name": "FL_2016",
+        "data": {
+            "Unnamed: 0": 83,
+            "data_year": 2016,
+            "state_abbr": "FL",
+            "population": 20627237
+        }
+    },
+    {
+        "name": "FL_2017",
+        "data": {
+            "Unnamed: 0": 84,
+            "data_year": 2017,
+            "state_abbr": "FL",
+            "population": 20977089
+        }
+    },
+    {
+        "name": "FL_2018",
+        "data": {
+            "Unnamed: 0": 85,
+            "data_year": 2018,
+            "state_abbr": "FL",
+            "population": 21254926
+        }
+    },
+    {
+        "name": "FL_2019",
+        "data": {
+            "Unnamed: 0": 86,
+            "data_year": 2019,
+            "state_abbr": "FL",
+            "population": 21492056
+        }
+    },
+    {
+        "name": "FL_2020",
+        "data": {
+            "Unnamed: 0": 87,
+            "data_year": 2020,
+            "state_abbr": "FL",
+            "population": 21591299
+        }
+    },
+    {
+        "name": "FL_2021",
+        "data": {
+            "Unnamed: 0": 88,
+            "data_year": 2021,
+            "state_abbr": "FL",
+            "population": 21830708
+        }
+    },
+    {
+        "name": "FL_2022",
+        "data": {
+            "Unnamed: 0": 89,
+            "data_year": 2022,
+            "state_abbr": "FL",
+            "population": 22245521
+        }
+    },
+    {
+        "name": "HI_2014",
+        "data": {
+            "Unnamed: 0": 90,
+            "data_year": 2014,
+            "state_abbr": "HI",
+            "population": 1415335
+        }
+    },
+    {
+        "name": "HI_2015",
+        "data": {
+            "Unnamed: 0": 91,
+            "data_year": 2015,
+            "state_abbr": "HI",
+            "population": 1422999
+        }
+    },
+    {
+        "name": "HI_2016",
+        "data": {
+            "Unnamed: 0": 92,
+            "data_year": 2016,
+            "state_abbr": "HI",
+            "population": 1428885
+        }
+    },
+    {
+        "name": "HI_2017",
+        "data": {
+            "Unnamed: 0": 93,
+            "data_year": 2017,
+            "state_abbr": "HI",
+            "population": 1425763
+        }
+    },
+    {
+        "name": "HI_2018",
+        "data": {
+            "Unnamed: 0": 94,
+            "data_year": 2018,
+            "state_abbr": "HI",
+            "population": 1423102
+        }
+    },
+    {
+        "name": "HI_2019",
+        "data": {
+            "Unnamed: 0": 95,
+            "data_year": 2019,
+            "state_abbr": "HI",
+            "population": 1415615
+        }
+    },
+    {
+        "name": "HI_2020",
+        "data": {
+            "Unnamed: 0": 96,
+            "data_year": 2020,
+            "state_abbr": "HI",
+            "population": 1451181
+        }
+    },
+    {
+        "name": "HI_2021",
+        "data": {
+            "Unnamed: 0": 97,
+            "data_year": 2021,
+            "state_abbr": "HI",
+            "population": 1446745
+        }
+    },
+    {
+        "name": "HI_2022",
+        "data": {
+            "Unnamed: 0": 98,
+            "data_year": 2022,
+            "state_abbr": "HI",
+            "population": 1439399
+        }
+    },
+    {
+        "name": "ID_2014",
+        "data": {
+            "Unnamed: 0": 99,
+            "data_year": 2014,
+            "state_abbr": "ID",
+            "population": 1632248
+        }
+    },
+    {
+        "name": "ID_2015",
+        "data": {
+            "Unnamed: 0": 100,
+            "data_year": 2015,
+            "state_abbr": "ID",
+            "population": 1652495
+        }
+    },
+    {
+        "name": "ID_2016",
+        "data": {
+            "Unnamed: 0": 101,
+            "data_year": 2016,
+            "state_abbr": "ID",
+            "population": 1684036
+        }
+    },
+    {
+        "name": "ID_2017",
+        "data": {
+            "Unnamed: 0": 102,
+            "data_year": 2017,
+            "state_abbr": "ID",
+            "population": 1719745
+        }
+    },
+    {
+        "name": "ID_2018",
+        "data": {
+            "Unnamed: 0": 103,
+            "data_year": 2018,
+            "state_abbr": "ID",
+            "population": 1752074
+        }
+    },
+    {
+        "name": "ID_2019",
+        "data": {
+            "Unnamed: 0": 104,
+            "data_year": 2019,
+            "state_abbr": "ID",
+            "population": 1789060
+        }
+    },
+    {
+        "name": "ID_2020",
+        "data": {
+            "Unnamed: 0": 105,
+            "data_year": 2020,
+            "state_abbr": "ID",
+            "population": 1849339
+        }
+    },
+    {
+        "name": "ID_2021",
+        "data": {
+            "Unnamed: 0": 106,
+            "data_year": 2021,
+            "state_abbr": "ID",
+            "population": 1904537
+        }
+    },
+    {
+        "name": "ID_2022",
+        "data": {
+            "Unnamed: 0": 107,
+            "data_year": 2022,
+            "state_abbr": "ID",
+            "population": 1938996
+        }
+    },
+    {
+        "name": "IL_2014",
+        "data": {
+            "Unnamed: 0": 108,
+            "data_year": 2014,
+            "state_abbr": "IL",
+            "population": 12885092
+        }
+    },
+    {
+        "name": "IL_2015",
+        "data": {
+            "Unnamed: 0": 109,
+            "data_year": 2015,
+            "state_abbr": "IL",
+            "population": 12859585
+        }
+    },
+    {
+        "name": "IL_2016",
+        "data": {
+            "Unnamed: 0": 110,
+            "data_year": 2016,
+            "state_abbr": "IL",
+            "population": 12821709
+        }
+    },
+    {
+        "name": "IL_2017",
+        "data": {
+            "Unnamed: 0": 111,
+            "data_year": 2017,
+            "state_abbr": "IL",
+            "population": 12779893
+        }
+    },
+    {
+        "name": "IL_2018",
+        "data": {
+            "Unnamed: 0": 112,
+            "data_year": 2018,
+            "state_abbr": "IL",
+            "population": 12724685
+        }
+    },
+    {
+        "name": "IL_2019",
+        "data": {
+            "Unnamed: 0": 113,
+            "data_year": 2019,
+            "state_abbr": "IL",
+            "population": 12667017
+        }
+    },
+    {
+        "name": "IL_2020",
+        "data": {
+            "Unnamed: 0": 114,
+            "data_year": 2020,
+            "state_abbr": "IL",
+            "population": 12790357
+        }
+    },
+    {
+        "name": "IL_2021",
+        "data": {
+            "Unnamed: 0": 115,
+            "data_year": 2021,
+            "state_abbr": "IL",
+            "population": 12690341
+        }
+    },
+    {
+        "name": "IL_2022",
+        "data": {
+            "Unnamed: 0": 116,
+            "data_year": 2022,
+            "state_abbr": "IL",
+            "population": 12582515
+        }
+    },
+    {
+        "name": "IN_2014",
+        "data": {
+            "Unnamed: 0": 117,
+            "data_year": 2014,
+            "state_abbr": "IN",
+            "population": 6596019
+        }
+    },
+    {
+        "name": "IN_2015",
+        "data": {
+            "Unnamed: 0": 118,
+            "data_year": 2015,
+            "state_abbr": "IN",
+            "population": 6611442
+        }
+    },
+    {
+        "name": "IN_2016",
+        "data": {
+            "Unnamed: 0": 119,
+            "data_year": 2016,
+            "state_abbr": "IN",
+            "population": 6637898
+        }
+    },
+    {
+        "name": "IN_2017",
+        "data": {
+            "Unnamed: 0": 120,
+            "data_year": 2017,
+            "state_abbr": "IN",
+            "population": 6662068
+        }
+    },
+    {
+        "name": "IN_2018",
+        "data": {
+            "Unnamed: 0": 121,
+            "data_year": 2018,
+            "state_abbr": "IN",
+            "population": 6698481
+        }
+    },
+    {
+        "name": "IN_2019",
+        "data": {
+            "Unnamed: 0": 122,
+            "data_year": 2019,
+            "state_abbr": "IN",
+            "population": 6731010
+        }
+    },
+    {
+        "name": "IN_2020",
+        "data": {
+            "Unnamed: 0": 123,
+            "data_year": 2020,
+            "state_abbr": "IN",
+            "population": 6789098
+        }
+    },
+    {
+        "name": "IN_2021",
+        "data": {
+            "Unnamed: 0": 124,
+            "data_year": 2021,
+            "state_abbr": "IN",
+            "population": 6813798
+        }
+    },
+    {
+        "name": "IN_2022",
+        "data": {
+            "Unnamed: 0": 125,
+            "data_year": 2022,
+            "state_abbr": "IN",
+            "population": 6832274
+        }
+    },
+    {
+        "name": "IA_2014",
+        "data": {
+            "Unnamed: 0": 126,
+            "data_year": 2014,
+            "state_abbr": "IA",
+            "population": 3110643
+        }
+    },
+    {
+        "name": "IA_2015",
+        "data": {
+            "Unnamed: 0": 127,
+            "data_year": 2015,
+            "state_abbr": "IA",
+            "population": 3122541
+        }
+    },
+    {
+        "name": "IA_2016",
+        "data": {
+            "Unnamed: 0": 128,
+            "data_year": 2016,
+            "state_abbr": "IA",
+            "population": 3133210
+        }
+    },
+    {
+        "name": "IA_2017",
+        "data": {
+            "Unnamed: 0": 129,
+            "data_year": 2017,
+            "state_abbr": "IA",
+            "population": 3143734
+        }
+    },
+    {
+        "name": "IA_2018",
+        "data": {
+            "Unnamed: 0": 130,
+            "data_year": 2018,
+            "state_abbr": "IA",
+            "population": 3149900
+        }
+    },
+    {
+        "name": "IA_2019",
+        "data": {
+            "Unnamed: 0": 131,
+            "data_year": 2019,
+            "state_abbr": "IA",
+            "population": 3159596
+        }
+    },
+    {
+        "name": "IA_2020",
+        "data": {
+            "Unnamed: 0": 132,
+            "data_year": 2020,
+            "state_abbr": "IA",
+            "population": 3190904
+        }
+    },
+    {
+        "name": "IA_2021",
+        "data": {
+            "Unnamed: 0": 133,
+            "data_year": 2021,
+            "state_abbr": "IA",
+            "population": 3197944
+        }
+    },
+    {
+        "name": "IA_2022",
+        "data": {
+            "Unnamed: 0": 134,
+            "data_year": 2022,
+            "state_abbr": "IA",
+            "population": 3199693
+        }
+    },
+    {
+        "name": "KS_2014",
+        "data": {
+            "Unnamed: 0": 135,
+            "data_year": 2014,
+            "state_abbr": "KS",
+            "population": 2901861
+        }
+    },
+    {
+        "name": "KS_2015",
+        "data": {
+            "Unnamed: 0": 136,
+            "data_year": 2015,
+            "state_abbr": "KS",
+            "population": 2910717
+        }
+    },
+    {
+        "name": "KS_2016",
+        "data": {
+            "Unnamed: 0": 137,
+            "data_year": 2016,
+            "state_abbr": "KS",
+            "population": 2912977
+        }
+    },
+    {
+        "name": "KS_2017",
+        "data": {
+            "Unnamed: 0": 138,
+            "data_year": 2017,
+            "state_abbr": "KS",
+            "population": 2910892
+        }
+    },
+    {
+        "name": "KS_2018",
+        "data": {
+            "Unnamed: 0": 139,
+            "data_year": 2018,
+            "state_abbr": "KS",
+            "population": 2912748
+        }
+    },
+    {
+        "name": "KS_2019",
+        "data": {
+            "Unnamed: 0": 140,
+            "data_year": 2019,
+            "state_abbr": "KS",
+            "population": 2912635
+        }
+    },
+    {
+        "name": "KS_2020",
+        "data": {
+            "Unnamed: 0": 141,
+            "data_year": 2020,
+            "state_abbr": "KS",
+            "population": 2938124
+        }
+    },
+    {
+        "name": "KS_2021",
+        "data": {
+            "Unnamed: 0": 142,
+            "data_year": 2021,
+            "state_abbr": "KS",
+            "population": 2937946
+        }
+    },
+    {
+        "name": "KS_2022",
+        "data": {
+            "Unnamed: 0": 143,
+            "data_year": 2022,
+            "state_abbr": "KS",
+            "population": 2936716
+        }
+    },
+    {
+        "name": "KY_2014",
+        "data": {
+            "Unnamed: 0": 144,
+            "data_year": 2014,
+            "state_abbr": "KY",
+            "population": 4416992
+        }
+    },
+    {
+        "name": "KY_2015",
+        "data": {
+            "Unnamed: 0": 145,
+            "data_year": 2015,
+            "state_abbr": "KY",
+            "population": 4429126
+        }
+    },
+    {
+        "name": "KY_2016",
+        "data": {
+            "Unnamed: 0": 146,
+            "data_year": 2016,
+            "state_abbr": "KY",
+            "population": 4440306
+        }
+    },
+    {
+        "name": "KY_2017",
+        "data": {
+            "Unnamed: 0": 147,
+            "data_year": 2017,
+            "state_abbr": "KY",
+            "population": 4455590
+        }
+    },
+    {
+        "name": "KY_2018",
+        "data": {
+            "Unnamed: 0": 148,
+            "data_year": 2018,
+            "state_abbr": "KY",
+            "population": 4464273
+        }
+    },
+    {
+        "name": "KY_2019",
+        "data": {
+            "Unnamed: 0": 149,
+            "data_year": 2019,
+            "state_abbr": "KY",
+            "population": 4472345
+        }
+    },
+    {
+        "name": "KY_2020",
+        "data": {
+            "Unnamed: 0": 150,
+            "data_year": 2020,
+            "state_abbr": "KY",
+            "population": 4508155
+        }
+    },
+    {
+        "name": "KY_2021",
+        "data": {
+            "Unnamed: 0": 151,
+            "data_year": 2021,
+            "state_abbr": "KY",
+            "population": 4507600
+        }
+    },
+    {
+        "name": "KY_2022",
+        "data": {
+            "Unnamed: 0": 152,
+            "data_year": 2022,
+            "state_abbr": "KY",
+            "population": 4511563
+        }
+    },
+    {
+        "name": "LA_2014",
+        "data": {
+            "Unnamed: 0": 153,
+            "data_year": 2014,
+            "state_abbr": "LA",
+            "population": 4645938
+        }
+    },
+    {
+        "name": "LA_2015",
+        "data": {
+            "Unnamed: 0": 154,
+            "data_year": 2015,
+            "state_abbr": "LA",
+            "population": 4666998
+        }
+    },
+    {
+        "name": "LA_2016",
+        "data": {
+            "Unnamed: 0": 155,
+            "data_year": 2016,
+            "state_abbr": "LA",
+            "population": 4681346
+        }
+    },
+    {
+        "name": "LA_2017",
+        "data": {
+            "Unnamed: 0": 156,
+            "data_year": 2017,
+            "state_abbr": "LA",
+            "population": 4673673
+        }
+    },
+    {
+        "name": "LA_2018",
+        "data": {
+            "Unnamed: 0": 157,
+            "data_year": 2018,
+            "state_abbr": "LA",
+            "population": 4664450
+        }
+    },
+    {
+        "name": "LA_2019",
+        "data": {
+            "Unnamed: 0": 158,
+            "data_year": 2019,
+            "state_abbr": "LA",
+            "population": 4658285
+        }
+    },
+    {
+        "name": "LA_2020",
+        "data": {
+            "Unnamed: 0": 159,
+            "data_year": 2020,
+            "state_abbr": "LA",
+            "population": 4652022
+        }
+    },
+    {
+        "name": "LA_2021",
+        "data": {
+            "Unnamed: 0": 160,
+            "data_year": 2021,
+            "state_abbr": "LA",
+            "population": 4627047
+        }
+    },
+    {
+        "name": "LA_2022",
+        "data": {
+            "Unnamed: 0": 161,
+            "data_year": 2022,
+            "state_abbr": "LA",
+            "population": 4588023
+        }
+    },
+    {
+        "name": "ME_2014",
+        "data": {
+            "Unnamed: 0": 162,
+            "data_year": 2014,
+            "state_abbr": "ME",
+            "population": 1331217
+        }
+    },
+    {
+        "name": "ME_2015",
+        "data": {
+            "Unnamed: 0": 163,
+            "data_year": 2015,
+            "state_abbr": "ME",
+            "population": 1329098
+        }
+    },
+    {
+        "name": "ME_2016",
+        "data": {
+            "Unnamed: 0": 164,
+            "data_year": 2016,
+            "state_abbr": "ME",
+            "population": 1332348
+        }
+    },
+    {
+        "name": "ME_2017",
+        "data": {
+            "Unnamed: 0": 165,
+            "data_year": 2017,
+            "state_abbr": "ME",
+            "population": 1335743
+        }
+    },
+    {
+        "name": "ME_2018",
+        "data": {
+            "Unnamed: 0": 166,
+            "data_year": 2018,
+            "state_abbr": "ME",
+            "population": 1340123
+        }
+    },
+    {
+        "name": "ME_2019",
+        "data": {
+            "Unnamed: 0": 167,
+            "data_year": 2019,
+            "state_abbr": "ME",
+            "population": 1345770
+        }
+    },
+    {
+        "name": "ME_2020",
+        "data": {
+            "Unnamed: 0": 168,
+            "data_year": 2020,
+            "state_abbr": "ME",
+            "population": 1364517
+        }
+    },
+    {
+        "name": "ME_2021",
+        "data": {
+            "Unnamed: 0": 169,
+            "data_year": 2021,
+            "state_abbr": "ME",
+            "population": 1378787
+        }
+    },
+    {
+        "name": "ME_2022",
+        "data": {
+            "Unnamed: 0": 170,
+            "data_year": 2022,
+            "state_abbr": "ME",
+            "population": 1389338
+        }
+    },
+    {
+        "name": "MD_2014",
+        "data": {
+            "Unnamed: 0": 171,
+            "data_year": 2014,
+            "state_abbr": "MD",
+            "population": 5960064
+        }
+    },
+    {
+        "name": "MD_2015",
+        "data": {
+            "Unnamed: 0": 172,
+            "data_year": 2015,
+            "state_abbr": "MD",
+            "population": 5988528
+        }
+    },
+    {
+        "name": "MD_2016",
+        "data": {
+            "Unnamed: 0": 173,
+            "data_year": 2016,
+            "state_abbr": "MD",
+            "population": 6007014
+        }
+    },
+    {
+        "name": "MD_2017",
+        "data": {
+            "Unnamed: 0": 174,
+            "data_year": 2017,
+            "state_abbr": "MD",
+            "population": 6028186
+        }
+    },
+    {
+        "name": "MD_2018",
+        "data": {
+            "Unnamed: 0": 175,
+            "data_year": 2018,
+            "state_abbr": "MD",
+            "population": 6042153
+        }
+    },
+    {
+        "name": "MD_2019",
+        "data": {
+            "Unnamed: 0": 176,
+            "data_year": 2019,
+            "state_abbr": "MD",
+            "population": 6054954
+        }
+    },
+    {
+        "name": "MD_2020",
+        "data": {
+            "Unnamed: 0": 177,
+            "data_year": 2020,
+            "state_abbr": "MD",
+            "population": 6173689
+        }
+    },
+    {
+        "name": "MD_2021",
+        "data": {
+            "Unnamed: 0": 178,
+            "data_year": 2021,
+            "state_abbr": "MD",
+            "population": 6175045
+        }
+    },
+    {
+        "name": "MD_2022",
+        "data": {
+            "Unnamed: 0": 179,
+            "data_year": 2022,
+            "state_abbr": "MD",
+            "population": 6163981
+        }
+    },
+    {
+        "name": "MA_2014",
+        "data": {
+            "Unnamed: 0": 180,
+            "data_year": 2014,
+            "state_abbr": "MA",
+            "population": 6764864
+        }
+    },
+    {
+        "name": "MA_2015",
+        "data": {
+            "Unnamed: 0": 181,
+            "data_year": 2015,
+            "state_abbr": "MA",
+            "population": 6797484
+        }
+    },
+    {
+        "name": "MA_2016",
+        "data": {
+            "Unnamed: 0": 182,
+            "data_year": 2016,
+            "state_abbr": "MA",
+            "population": 6827280
+        }
+    },
+    {
+        "name": "MA_2017",
+        "data": {
+            "Unnamed: 0": 183,
+            "data_year": 2017,
+            "state_abbr": "MA",
+            "population": 6863560
+        }
+    },
+    {
+        "name": "MA_2018",
+        "data": {
+            "Unnamed: 0": 184,
+            "data_year": 2018,
+            "state_abbr": "MA",
+            "population": 6885720
+        }
+    },
+    {
+        "name": "MA_2019",
+        "data": {
+            "Unnamed: 0": 185,
+            "data_year": 2019,
+            "state_abbr": "MA",
+            "population": 6894883
+        }
+    },
+    {
+        "name": "MA_2020",
+        "data": {
+            "Unnamed: 0": 186,
+            "data_year": 2020,
+            "state_abbr": "MA",
+            "population": 6997713
+        }
+    },
+    {
+        "name": "MA_2021",
+        "data": {
+            "Unnamed: 0": 187,
+            "data_year": 2021,
+            "state_abbr": "MA",
+            "population": 6991951
+        }
+    },
+    {
+        "name": "MA_2022",
+        "data": {
+            "Unnamed: 0": 188,
+            "data_year": 2022,
+            "state_abbr": "MA",
+            "population": 6982740
+        }
+    },
+    {
+        "name": "MI_2014",
+        "data": {
+            "Unnamed: 0": 189,
+            "data_year": 2014,
+            "state_abbr": "MI",
+            "population": 9932033
+        }
+    },
+    {
+        "name": "MI_2015",
+        "data": {
+            "Unnamed: 0": 190,
+            "data_year": 2015,
+            "state_abbr": "MI",
+            "population": 9934483
+        }
+    },
+    {
+        "name": "MI_2016",
+        "data": {
+            "Unnamed: 0": 191,
+            "data_year": 2016,
+            "state_abbr": "MI",
+            "population": 9954117
+        }
+    },
+    {
+        "name": "MI_2017",
+        "data": {
+            "Unnamed: 0": 192,
+            "data_year": 2017,
+            "state_abbr": "MI",
+            "population": 9976752
+        }
+    },
+    {
+        "name": "MI_2018",
+        "data": {
+            "Unnamed: 0": 193,
+            "data_year": 2018,
+            "state_abbr": "MI",
+            "population": 9987286
+        }
+    },
+    {
+        "name": "MI_2019",
+        "data": {
+            "Unnamed: 0": 194,
+            "data_year": 2019,
+            "state_abbr": "MI",
+            "population": 9984795
+        }
+    },
+    {
+        "name": "MI_2020",
+        "data": {
+            "Unnamed: 0": 195,
+            "data_year": 2020,
+            "state_abbr": "MI",
+            "population": 10070627
+        }
+    },
+    {
+        "name": "MI_2021",
+        "data": {
+            "Unnamed: 0": 196,
+            "data_year": 2021,
+            "state_abbr": "MI",
+            "population": 10038117
+        }
+    },
+    {
+        "name": "MI_2022",
+        "data": {
+            "Unnamed: 0": 197,
+            "data_year": 2022,
+            "state_abbr": "MI",
+            "population": 10033281
+        }
+    },
+    {
+        "name": "MN_2014",
+        "data": {
+            "Unnamed: 0": 198,
+            "data_year": 2014,
+            "state_abbr": "MN",
+            "population": 5452665
+        }
+    },
+    {
+        "name": "MN_2015",
+        "data": {
+            "Unnamed: 0": 199,
+            "data_year": 2015,
+            "state_abbr": "MN",
+            "population": 5484002
+        }
+    },
+    {
+        "name": "MN_2016",
+        "data": {
+            "Unnamed: 0": 200,
+            "data_year": 2016,
+            "state_abbr": "MN",
+            "population": 5525360
+        }
+    },
+    {
+        "name": "MN_2017",
+        "data": {
+            "Unnamed: 0": 201,
+            "data_year": 2017,
+            "state_abbr": "MN",
+            "population": 5569283
+        }
+    },
+    {
+        "name": "MN_2018",
+        "data": {
+            "Unnamed: 0": 202,
+            "data_year": 2018,
+            "state_abbr": "MN",
+            "population": 5608762
+        }
+    },
+    {
+        "name": "MN_2019",
+        "data": {
+            "Unnamed: 0": 203,
+            "data_year": 2019,
+            "state_abbr": "MN",
+            "population": 5640053
+        }
+    },
+    {
+        "name": "MN_2020",
+        "data": {
+            "Unnamed: 0": 204,
+            "data_year": 2020,
+            "state_abbr": "MN",
+            "population": 5710578
+        }
+    },
+    {
+        "name": "MN_2021",
+        "data": {
+            "Unnamed: 0": 205,
+            "data_year": 2021,
+            "state_abbr": "MN",
+            "population": 5717968
+        }
+    },
+    {
+        "name": "MN_2022",
+        "data": {
+            "Unnamed: 0": 206,
+            "data_year": 2022,
+            "state_abbr": "MN",
+            "population": 5714300
+        }
+    },
+    {
+        "name": "MS_2014",
+        "data": {
+            "Unnamed: 0": 207,
+            "data_year": 2014,
+            "state_abbr": "MS",
+            "population": 2991892
+        }
+    },
+    {
+        "name": "MS_2015",
+        "data": {
+            "Unnamed: 0": 208,
+            "data_year": 2015,
+            "state_abbr": "MS",
+            "population": 2990231
+        }
+    },
+    {
+        "name": "MS_2016",
+        "data": {
+            "Unnamed: 0": 209,
+            "data_year": 2016,
+            "state_abbr": "MS",
+            "population": 2990595
+        }
+    },
+    {
+        "name": "MS_2017",
+        "data": {
+            "Unnamed: 0": 210,
+            "data_year": 2017,
+            "state_abbr": "MS",
+            "population": 2990674
+        }
+    },
+    {
+        "name": "MS_2018",
+        "data": {
+            "Unnamed: 0": 211,
+            "data_year": 2018,
+            "state_abbr": "MS",
+            "population": 2982879
+        }
+    },
+    {
+        "name": "MS_2019",
+        "data": {
+            "Unnamed: 0": 212,
+            "data_year": 2019,
+            "state_abbr": "MS",
+            "population": 2978227
+        }
+    },
+    {
+        "name": "MS_2020",
+        "data": {
+            "Unnamed: 0": 213,
+            "data_year": 2020,
+            "state_abbr": "MS",
+            "population": 2958409
+        }
+    },
+    {
+        "name": "MS_2021",
+        "data": {
+            "Unnamed: 0": 214,
+            "data_year": 2021,
+            "state_abbr": "MS",
+            "population": 2949582
+        }
+    },
+    {
+        "name": "MS_2022",
+        "data": {
+            "Unnamed: 0": 215,
+            "data_year": 2022,
+            "state_abbr": "MS",
+            "population": 2938928
+        }
+    },
+    {
+        "name": "MO_2014",
+        "data": {
+            "Unnamed: 0": 216,
+            "data_year": 2014,
+            "state_abbr": "MO",
+            "population": 6059130
+        }
+    },
+    {
+        "name": "MO_2015",
+        "data": {
+            "Unnamed: 0": 217,
+            "data_year": 2015,
+            "state_abbr": "MO",
+            "population": 6075411
+        }
+    },
+    {
+        "name": "MO_2016",
+        "data": {
+            "Unnamed: 0": 218,
+            "data_year": 2016,
+            "state_abbr": "MO",
+            "population": 6091384
+        }
+    },
+    {
+        "name": "MO_2017",
+        "data": {
+            "Unnamed: 0": 219,
+            "data_year": 2017,
+            "state_abbr": "MO",
+            "population": 6111382
+        }
+    },
+    {
+        "name": "MO_2018",
+        "data": {
+            "Unnamed: 0": 220,
+            "data_year": 2018,
+            "state_abbr": "MO",
+            "population": 6125986
+        }
+    },
+    {
+        "name": "MO_2019",
+        "data": {
+            "Unnamed: 0": 221,
+            "data_year": 2019,
+            "state_abbr": "MO",
+            "population": 6140475
+        }
+    },
+    {
+        "name": "MO_2020",
+        "data": {
+            "Unnamed: 0": 222,
+            "data_year": 2020,
+            "state_abbr": "MO",
+            "population": 6154426
+        }
+    },
+    {
+        "name": "MO_2021",
+        "data": {
+            "Unnamed: 0": 223,
+            "data_year": 2021,
+            "state_abbr": "MO",
+            "population": 6170393
+        }
+    },
+    {
+        "name": "MO_2022",
+        "data": {
+            "Unnamed: 0": 224,
+            "data_year": 2022,
+            "state_abbr": "MO",
+            "population": 6177168
+        }
+    },
+    {
+        "name": "MT_2014",
+        "data": {
+            "Unnamed: 0": 225,
+            "data_year": 2014,
+            "state_abbr": "MT",
+            "population": 1022657
+        }
+    },
+    {
+        "name": "MT_2015",
+        "data": {
+            "Unnamed: 0": 226,
+            "data_year": 2015,
+            "state_abbr": "MT",
+            "population": 1031495
+        }
+    },
+    {
+        "name": "MT_2016",
+        "data": {
+            "Unnamed: 0": 227,
+            "data_year": 2016,
+            "state_abbr": "MT",
+            "population": 1042137
+        }
+    },
+    {
+        "name": "MT_2017",
+        "data": {
+            "Unnamed: 0": 228,
+            "data_year": 2017,
+            "state_abbr": "MT",
+            "population": 1053862
+        }
+    },
+    {
+        "name": "MT_2018",
+        "data": {
+            "Unnamed: 0": 229,
+            "data_year": 2018,
+            "state_abbr": "MT",
+            "population": 1061818
+        }
+    },
+    {
+        "name": "MT_2019",
+        "data": {
+            "Unnamed: 0": 230,
+            "data_year": 2019,
+            "state_abbr": "MT",
+            "population": 1070123
+        }
+    },
+    {
+        "name": "MT_2020",
+        "data": {
+            "Unnamed: 0": 231,
+            "data_year": 2020,
+            "state_abbr": "MT",
+            "population": 1087211
+        }
+    },
+    {
+        "name": "MT_2021",
+        "data": {
+            "Unnamed: 0": 232,
+            "data_year": 2021,
+            "state_abbr": "MT",
+            "population": 1106366
+        }
+    },
+    {
+        "name": "MT_2022",
+        "data": {
+            "Unnamed: 0": 233,
+            "data_year": 2022,
+            "state_abbr": "MT",
+            "population": 1122878
+        }
+    },
+    {
+        "name": "NE_2014",
+        "data": {
+            "Unnamed: 0": 234,
+            "data_year": 2014,
+            "state_abbr": "NE",
+            "population": 1879955
+        }
+    },
+    {
+        "name": "NE_2015",
+        "data": {
+            "Unnamed: 0": 235,
+            "data_year": 2015,
+            "state_abbr": "NE",
+            "population": 1892059
+        }
+    },
+    {
+        "name": "NE_2016",
+        "data": {
+            "Unnamed: 0": 236,
+            "data_year": 2016,
+            "state_abbr": "NE",
+            "population": 1906483
+        }
+    },
+    {
+        "name": "NE_2017",
+        "data": {
+            "Unnamed: 0": 237,
+            "data_year": 2017,
+            "state_abbr": "NE",
+            "population": 1916998
+        }
+    },
+    {
+        "name": "NE_2018",
+        "data": {
+            "Unnamed: 0": 238,
+            "data_year": 2018,
+            "state_abbr": "NE",
+            "population": 1925512
+        }
+    },
+    {
+        "name": "NE_2019",
+        "data": {
+            "Unnamed: 0": 239,
+            "data_year": 2019,
+            "state_abbr": "NE",
+            "population": 1932571
+        }
+    },
+    {
+        "name": "NE_2020",
+        "data": {
+            "Unnamed: 0": 240,
+            "data_year": 2020,
+            "state_abbr": "NE",
+            "population": 1963273
+        }
+    },
+    {
+        "name": "NE_2021",
+        "data": {
+            "Unnamed: 0": 241,
+            "data_year": 2021,
+            "state_abbr": "NE",
+            "population": 1964253
+        }
+    },
+    {
+        "name": "NE_2022",
+        "data": {
+            "Unnamed: 0": 242,
+            "data_year": 2022,
+            "state_abbr": "NE",
+            "population": 1968060
+        }
+    },
+    {
+        "name": "NV_2014",
+        "data": {
+            "Unnamed: 0": 243,
+            "data_year": 2014,
+            "state_abbr": "NV",
+            "population": 2818935
+        }
+    },
+    {
+        "name": "NV_2015",
+        "data": {
+            "Unnamed: 0": 244,
+            "data_year": 2015,
+            "state_abbr": "NV",
+            "population": 2868531
+        }
+    },
+    {
+        "name": "NV_2016",
+        "data": {
+            "Unnamed: 0": 245,
+            "data_year": 2016,
+            "state_abbr": "NV",
+            "population": 2919555
+        }
+    },
+    {
+        "name": "NV_2017",
+        "data": {
+            "Unnamed: 0": 246,
+            "data_year": 2017,
+            "state_abbr": "NV",
+            "population": 2972097
+        }
+    },
+    {
+        "name": "NV_2018",
+        "data": {
+            "Unnamed: 0": 247,
+            "data_year": 2018,
+            "state_abbr": "NV",
+            "population": 3030725
+        }
+    },
+    {
+        "name": "NV_2019",
+        "data": {
+            "Unnamed: 0": 248,
+            "data_year": 2019,
+            "state_abbr": "NV",
+            "population": 3090771
+        }
+    },
+    {
+        "name": "NV_2020",
+        "data": {
+            "Unnamed: 0": 249,
+            "data_year": 2020,
+            "state_abbr": "NV",
+            "population": 3115840
+        }
+    },
+    {
+        "name": "NV_2021",
+        "data": {
+            "Unnamed: 0": 250,
+            "data_year": 2021,
+            "state_abbr": "NV",
+            "population": 3146632
+        }
+    },
+    {
+        "name": "NV_2022",
+        "data": {
+            "Unnamed: 0": 251,
+            "data_year": 2022,
+            "state_abbr": "NV",
+            "population": 3177421
+        }
+    },
+    {
+        "name": "NH_2014",
+        "data": {
+            "Unnamed: 0": 252,
+            "data_year": 2014,
+            "state_abbr": "NH",
+            "population": 1334257
+        }
+    },
+    {
+        "name": "NH_2015",
+        "data": {
+            "Unnamed: 0": 253,
+            "data_year": 2015,
+            "state_abbr": "NH",
+            "population": 1337480
+        }
+    },
+    {
+        "name": "NH_2016",
+        "data": {
+            "Unnamed: 0": 254,
+            "data_year": 2016,
+            "state_abbr": "NH",
+            "population": 1343694
+        }
+    },
+    {
+        "name": "NH_2017",
+        "data": {
+            "Unnamed: 0": 255,
+            "data_year": 2017,
+            "state_abbr": "NH",
+            "population": 1350395
+        }
+    },
+    {
+        "name": "NH_2018",
+        "data": {
+            "Unnamed: 0": 256,
+            "data_year": 2018,
+            "state_abbr": "NH",
+            "population": 1355064
+        }
+    },
+    {
+        "name": "NH_2019",
+        "data": {
+            "Unnamed: 0": 257,
+            "data_year": 2019,
+            "state_abbr": "NH",
+            "population": 1360783
+        }
+    },
+    {
+        "name": "NH_2020",
+        "data": {
+            "Unnamed: 0": 258,
+            "data_year": 2020,
+            "state_abbr": "NH",
+            "population": 1378702
+        }
+    },
+    {
+        "name": "NH_2021",
+        "data": {
+            "Unnamed: 0": 259,
+            "data_year": 2021,
+            "state_abbr": "NH",
+            "population": 1387494
+        }
+    },
+    {
+        "name": "NH_2022",
+        "data": {
+            "Unnamed: 0": 260,
+            "data_year": 2022,
+            "state_abbr": "NH",
+            "population": 1399003
+        }
+    },
+    {
+        "name": "NJ_2014",
+        "data": {
+            "Unnamed: 0": 261,
+            "data_year": 2014,
+            "state_abbr": "NJ",
+            "population": 8867277
+        }
+    },
+    {
+        "name": "NJ_2015",
+        "data": {
+            "Unnamed: 0": 262,
+            "data_year": 2015,
+            "state_abbr": "NJ",
+            "population": 8870312
+        }
+    },
+    {
+        "name": "NJ_2016",
+        "data": {
+            "Unnamed: 0": 263,
+            "data_year": 2016,
+            "state_abbr": "NJ",
+            "population": 8873584
+        }
+    },
+    {
+        "name": "NJ_2017",
+        "data": {
+            "Unnamed: 0": 264,
+            "data_year": 2017,
+            "state_abbr": "NJ",
+            "population": 8888147
+        }
+    },
+    {
+        "name": "NJ_2018",
+        "data": {
+            "Unnamed: 0": 265,
+            "data_year": 2018,
+            "state_abbr": "NJ",
+            "population": 8891730
+        }
+    },
+    {
+        "name": "NJ_2019",
+        "data": {
+            "Unnamed: 0": 266,
+            "data_year": 2019,
+            "state_abbr": "NJ",
+            "population": 8891258
+        }
+    },
+    {
+        "name": "NJ_2020",
+        "data": {
+            "Unnamed: 0": 267,
+            "data_year": 2020,
+            "state_abbr": "NJ",
+            "population": 9272392
+        }
+    },
+    {
+        "name": "NJ_2021",
+        "data": {
+            "Unnamed: 0": 268,
+            "data_year": 2021,
+            "state_abbr": "NJ",
+            "population": 9269175
+        }
+    },
+    {
+        "name": "NJ_2022",
+        "data": {
+            "Unnamed: 0": 269,
+            "data_year": 2022,
+            "state_abbr": "NJ",
+            "population": 9260817
+        }
+    },
+    {
+        "name": "NM_2014",
+        "data": {
+            "Unnamed: 0": 270,
+            "data_year": 2014,
+            "state_abbr": "NM",
+            "population": 2090236
+        }
+    },
+    {
+        "name": "NM_2015",
+        "data": {
+            "Unnamed: 0": 271,
+            "data_year": 2015,
+            "state_abbr": "NM",
+            "population": 2090071
+        }
+    },
+    {
+        "name": "NM_2016",
+        "data": {
+            "Unnamed: 0": 272,
+            "data_year": 2016,
+            "state_abbr": "NM",
+            "population": 2092555
+        }
+    },
+    {
+        "name": "NM_2017",
+        "data": {
+            "Unnamed: 0": 273,
+            "data_year": 2017,
+            "state_abbr": "NM",
+            "population": 2092844
+        }
+    },
+    {
+        "name": "NM_2018",
+        "data": {
+            "Unnamed: 0": 274,
+            "data_year": 2018,
+            "state_abbr": "NM",
+            "population": 2093754
+        }
+    },
+    {
+        "name": "NM_2019",
+        "data": {
+            "Unnamed: 0": 275,
+            "data_year": 2019,
+            "state_abbr": "NM",
+            "population": 2099634
+        }
+    },
+    {
+        "name": "NM_2020",
+        "data": {
+            "Unnamed: 0": 276,
+            "data_year": 2020,
+            "state_abbr": "NM",
+            "population": 2118488
+        }
+    },
+    {
+        "name": "NM_2021",
+        "data": {
+            "Unnamed: 0": 277,
+            "data_year": 2021,
+            "state_abbr": "NM",
+            "population": 2116950
+        }
+    },
+    {
+        "name": "NM_2022",
+        "data": {
+            "Unnamed: 0": 278,
+            "data_year": 2022,
+            "state_abbr": "NM",
+            "population": 2113476
+        }
+    },
+    {
+        "name": "NY_2014",
+        "data": {
+            "Unnamed: 0": 279,
+            "data_year": 2014,
+            "state_abbr": "NY",
+            "population": 19653431
+        }
+    },
+    {
+        "name": "NY_2015",
+        "data": {
+            "Unnamed: 0": 280,
+            "data_year": 2015,
+            "state_abbr": "NY",
+            "population": 19657321
+        }
+    },
+    {
+        "name": "NY_2016",
+        "data": {
+            "Unnamed: 0": 281,
+            "data_year": 2016,
+            "state_abbr": "NY",
+            "population": 19636391
+        }
+    },
+    {
+        "name": "NY_2017",
+        "data": {
+            "Unnamed: 0": 282,
+            "data_year": 2017,
+            "state_abbr": "NY",
+            "population": 19593849
+        }
+    },
+    {
+        "name": "NY_2018",
+        "data": {
+            "Unnamed: 0": 283,
+            "data_year": 2018,
+            "state_abbr": "NY",
+            "population": 19544098
+        }
+    },
+    {
+        "name": "NY_2019",
+        "data": {
+            "Unnamed: 0": 284,
+            "data_year": 2019,
+            "state_abbr": "NY",
+            "population": 19463131
+        }
+    },
+    {
+        "name": "NY_2020",
+        "data": {
+            "Unnamed: 0": 285,
+            "data_year": 2020,
+            "state_abbr": "NY",
+            "population": 20104710
+        }
+    },
+    {
+        "name": "NY_2021",
+        "data": {
+            "Unnamed: 0": 286,
+            "data_year": 2021,
+            "state_abbr": "NY",
+            "population": 19854526
+        }
+    },
+    {
+        "name": "NY_2022",
+        "data": {
+            "Unnamed: 0": 287,
+            "data_year": 2022,
+            "state_abbr": "NY",
+            "population": 19673200
+        }
+    },
+    {
+        "name": "NC_2014",
+        "data": {
+            "Unnamed: 0": 288,
+            "data_year": 2014,
+            "state_abbr": "NC",
+            "population": 9937295
+        }
+    },
+    {
+        "name": "NC_2015",
+        "data": {
+            "Unnamed: 0": 289,
+            "data_year": 2015,
+            "state_abbr": "NC",
+            "population": 10037218
+        }
+    },
+    {
+        "name": "NC_2016",
+        "data": {
+            "Unnamed: 0": 290,
+            "data_year": 2016,
+            "state_abbr": "NC",
+            "population": 10161802
+        }
+    },
+    {
+        "name": "NC_2017",
+        "data": {
+            "Unnamed: 0": 291,
+            "data_year": 2017,
+            "state_abbr": "NC",
+            "population": 10275758
+        }
+    },
+    {
+        "name": "NC_2018",
+        "data": {
+            "Unnamed: 0": 292,
+            "data_year": 2018,
+            "state_abbr": "NC",
+            "population": 10391358
+        }
+    },
+    {
+        "name": "NC_2019",
+        "data": {
+            "Unnamed: 0": 293,
+            "data_year": 2019,
+            "state_abbr": "NC",
+            "population": 10501384
+        }
+    },
+    {
+        "name": "NC_2020",
+        "data": {
+            "Unnamed: 0": 294,
+            "data_year": 2020,
+            "state_abbr": "NC",
+            "population": 10453812
+        }
+    },
+    {
+        "name": "NC_2021",
+        "data": {
+            "Unnamed: 0": 295,
+            "data_year": 2021,
+            "state_abbr": "NC",
+            "population": 10567100
+        }
+    },
+    {
+        "name": "NC_2022",
+        "data": {
+            "Unnamed: 0": 296,
+            "data_year": 2022,
+            "state_abbr": "NC",
+            "population": 10695965
+        }
+    },
+    {
+        "name": "ND_2014",
+        "data": {
+            "Unnamed: 0": 297,
+            "data_year": 2014,
+            "state_abbr": "ND",
+            "population": 738736
+        }
+    },
+    {
+        "name": "ND_2015",
+        "data": {
+            "Unnamed: 0": 298,
+            "data_year": 2015,
+            "state_abbr": "ND",
+            "population": 755537
+        }
+    },
+    {
+        "name": "ND_2016",
+        "data": {
+            "Unnamed: 0": 299,
+            "data_year": 2016,
+            "state_abbr": "ND",
+            "population": 756114
+        }
+    },
+    {
+        "name": "ND_2017",
+        "data": {
+            "Unnamed: 0": 300,
+            "data_year": 2017,
+            "state_abbr": "ND",
+            "population": 756755
+        }
+    },
+    {
+        "name": "ND_2018",
+        "data": {
+            "Unnamed: 0": 301,
+            "data_year": 2018,
+            "state_abbr": "ND",
+            "population": 760062
+        }
+    },
+    {
+        "name": "ND_2019",
+        "data": {
+            "Unnamed: 0": 302,
+            "data_year": 2019,
+            "state_abbr": "ND",
+            "population": 763724
+        }
+    },
+    {
+        "name": "ND_2020",
+        "data": {
+            "Unnamed: 0": 303,
+            "data_year": 2020,
+            "state_abbr": "ND",
+            "population": 779563
+        }
+    },
+    {
+        "name": "ND_2021",
+        "data": {
+            "Unnamed: 0": 304,
+            "data_year": 2021,
+            "state_abbr": "ND",
+            "population": 777982
+        }
+    },
+    {
+        "name": "ND_2022",
+        "data": {
+            "Unnamed: 0": 305,
+            "data_year": 2022,
+            "state_abbr": "ND",
+            "population": 778912
+        }
+    },
+    {
+        "name": "OH_2014",
+        "data": {
+            "Unnamed: 0": 306,
+            "data_year": 2014,
+            "state_abbr": "OH",
+            "population": 11606573
+        }
+    },
+    {
+        "name": "OH_2015",
+        "data": {
+            "Unnamed: 0": 307,
+            "data_year": 2015,
+            "state_abbr": "OH",
+            "population": 11622315
+        }
+    },
+    {
+        "name": "OH_2016",
+        "data": {
+            "Unnamed: 0": 308,
+            "data_year": 2016,
+            "state_abbr": "OH",
+            "population": 11640060
+        }
+    },
+    {
+        "name": "OH_2017",
+        "data": {
+            "Unnamed: 0": 309,
+            "data_year": 2017,
+            "state_abbr": "OH",
+            "population": 11665706
+        }
+    },
+    {
+        "name": "OH_2018",
+        "data": {
+            "Unnamed: 0": 310,
+            "data_year": 2018,
+            "state_abbr": "OH",
+            "population": 11680892
+        }
+    },
+    {
+        "name": "OH_2019",
+        "data": {
+            "Unnamed: 0": 311,
+            "data_year": 2019,
+            "state_abbr": "OH",
+            "population": 11696507
+        }
+    },
+    {
+        "name": "OH_2020",
+        "data": {
+            "Unnamed: 0": 312,
+            "data_year": 2020,
+            "state_abbr": "OH",
+            "population": 11798292
+        }
+    },
+    {
+        "name": "OH_2021",
+        "data": {
+            "Unnamed: 0": 313,
+            "data_year": 2021,
+            "state_abbr": "OH",
+            "population": 11765227
+        }
+    },
+    {
+        "name": "OH_2022",
+        "data": {
+            "Unnamed: 0": 314,
+            "data_year": 2022,
+            "state_abbr": "OH",
+            "population": 11759697
+        }
+    },
+    {
+        "name": "OK_2014",
+        "data": {
+            "Unnamed: 0": 315,
+            "data_year": 2014,
+            "state_abbr": "OK",
+            "population": 3879187
+        }
+    },
+    {
+        "name": "OK_2015",
+        "data": {
+            "Unnamed: 0": 316,
+            "data_year": 2015,
+            "state_abbr": "OK",
+            "population": 3910518
+        }
+    },
+    {
+        "name": "OK_2016",
+        "data": {
+            "Unnamed: 0": 317,
+            "data_year": 2016,
+            "state_abbr": "OK",
+            "population": 3928143
+        }
+    },
+    {
+        "name": "OK_2017",
+        "data": {
+            "Unnamed: 0": 318,
+            "data_year": 2017,
+            "state_abbr": "OK",
+            "population": 3933602
+        }
+    },
+    {
+        "name": "OK_2018",
+        "data": {
+            "Unnamed: 0": 319,
+            "data_year": 2018,
+            "state_abbr": "OK",
+            "population": 3943488
+        }
+    },
+    {
+        "name": "OK_2019",
+        "data": {
+            "Unnamed: 0": 320,
+            "data_year": 2019,
+            "state_abbr": "OK",
+            "population": 3960676
+        }
+    },
+    {
+        "name": "OK_2020",
+        "data": {
+            "Unnamed: 0": 321,
+            "data_year": 2020,
+            "state_abbr": "OK",
+            "population": 3965234
+        }
+    },
+    {
+        "name": "OK_2021",
+        "data": {
+            "Unnamed: 0": 322,
+            "data_year": 2021,
+            "state_abbr": "OK",
+            "population": 3991634
+        }
+    },
+    {
+        "name": "OK_2022",
+        "data": {
+            "Unnamed: 0": 323,
+            "data_year": 2022,
+            "state_abbr": "OK",
+            "population": 4019271
+        }
+    },
+    {
+        "name": "OR_2014",
+        "data": {
+            "Unnamed: 0": 324,
+            "data_year": 2014,
+            "state_abbr": "OR",
+            "population": 3965447
+        }
+    },
+    {
+        "name": "OR_2015",
+        "data": {
+            "Unnamed: 0": 325,
+            "data_year": 2015,
+            "state_abbr": "OR",
+            "population": 4018542
+        }
+    },
+    {
+        "name": "OR_2016",
+        "data": {
+            "Unnamed: 0": 326,
+            "data_year": 2016,
+            "state_abbr": "OR",
+            "population": 4093271
+        }
+    },
+    {
+        "name": "OR_2017",
+        "data": {
+            "Unnamed: 0": 327,
+            "data_year": 2017,
+            "state_abbr": "OR",
+            "population": 4147294
+        }
+    },
+    {
+        "name": "OR_2018",
+        "data": {
+            "Unnamed: 0": 328,
+            "data_year": 2018,
+            "state_abbr": "OR",
+            "population": 4183538
+        }
+    },
+    {
+        "name": "OR_2019",
+        "data": {
+            "Unnamed: 0": 329,
+            "data_year": 2019,
+            "state_abbr": "OR",
+            "population": 4216116
+        }
+    },
+    {
+        "name": "OR_2020",
+        "data": {
+            "Unnamed: 0": 330,
+            "data_year": 2020,
+            "state_abbr": "OR",
+            "population": 4245044
+        }
+    },
+    {
+        "name": "OR_2021",
+        "data": {
+            "Unnamed: 0": 331,
+            "data_year": 2021,
+            "state_abbr": "OR",
+            "population": 4256465
+        }
+    },
+    {
+        "name": "OR_2022",
+        "data": {
+            "Unnamed: 0": 332,
+            "data_year": 2022,
+            "state_abbr": "OR",
+            "population": 4239379
+        }
+    },
+    {
+        "name": "PA_2014",
+        "data": {
+            "Unnamed: 0": 333,
+            "data_year": 2014,
+            "state_abbr": "PA",
+            "population": 12792392
+        }
+    },
+    {
+        "name": "PA_2015",
+        "data": {
+            "Unnamed: 0": 334,
+            "data_year": 2015,
+            "state_abbr": "PA",
+            "population": 12789838
+        }
+    },
+    {
+        "name": "PA_2016",
+        "data": {
+            "Unnamed: 0": 335,
+            "data_year": 2016,
+            "state_abbr": "PA",
+            "population": 12788468
+        }
+    },
+    {
+        "name": "PA_2017",
+        "data": {
+            "Unnamed: 0": 336,
+            "data_year": 2017,
+            "state_abbr": "PA",
+            "population": 12794679
+        }
+    },
+    {
+        "name": "PA_2018",
+        "data": {
+            "Unnamed: 0": 337,
+            "data_year": 2018,
+            "state_abbr": "PA",
+            "population": 12809107
+        }
+    },
+    {
+        "name": "PA_2019",
+        "data": {
+            "Unnamed: 0": 338,
+            "data_year": 2019,
+            "state_abbr": "PA",
+            "population": 12798883
+        }
+    },
+    {
+        "name": "PA_2020",
+        "data": {
+            "Unnamed: 0": 339,
+            "data_year": 2020,
+            "state_abbr": "PA",
+            "population": 12995477
+        }
+    },
+    {
+        "name": "PA_2021",
+        "data": {
+            "Unnamed: 0": 340,
+            "data_year": 2021,
+            "state_abbr": "PA",
+            "population": 13013614
+        }
+    },
+    {
+        "name": "PA_2022",
+        "data": {
+            "Unnamed: 0": 341,
+            "data_year": 2022,
+            "state_abbr": "PA",
+            "population": 12972091
+        }
+    },
+    {
+        "name": "RI_2014",
+        "data": {
+            "Unnamed: 0": 342,
+            "data_year": 2014,
+            "state_abbr": "RI",
+            "population": 1056511
+        }
+    },
+    {
+        "name": "RI_2015",
+        "data": {
+            "Unnamed: 0": 343,
+            "data_year": 2015,
+            "state_abbr": "RI",
+            "population": 1056886
+        }
+    },
+    {
+        "name": "RI_2016",
+        "data": {
+            "Unnamed: 0": 344,
+            "data_year": 2016,
+            "state_abbr": "RI",
+            "population": 1057816
+        }
+    },
+    {
+        "name": "RI_2017",
+        "data": {
+            "Unnamed: 0": 345,
+            "data_year": 2017,
+            "state_abbr": "RI",
+            "population": 1056554
+        }
+    },
+    {
+        "name": "RI_2018",
+        "data": {
+            "Unnamed: 0": 346,
+            "data_year": 2018,
+            "state_abbr": "RI",
+            "population": 1059338
+        }
+    },
+    {
+        "name": "RI_2019",
+        "data": {
+            "Unnamed: 0": 347,
+            "data_year": 2019,
+            "state_abbr": "RI",
+            "population": 1058158
+        }
+    },
+    {
+        "name": "RI_2020",
+        "data": {
+            "Unnamed: 0": 348,
+            "data_year": 2020,
+            "state_abbr": "RI",
+            "population": 1096444
+        }
+    },
+    {
+        "name": "RI_2021",
+        "data": {
+            "Unnamed: 0": 349,
+            "data_year": 2021,
+            "state_abbr": "RI",
+            "population": 1097092
+        }
+    },
+    {
+        "name": "RI_2022",
+        "data": {
+            "Unnamed: 0": 350,
+            "data_year": 2022,
+            "state_abbr": "RI",
+            "population": 1093842
+        }
+    },
+    {
+        "name": "SC_2014",
+        "data": {
+            "Unnamed: 0": 351,
+            "data_year": 2014,
+            "state_abbr": "SC",
+            "population": 4826858
+        }
+    },
+    {
+        "name": "SC_2015",
+        "data": {
+            "Unnamed: 0": 352,
+            "data_year": 2015,
+            "state_abbr": "SC",
+            "population": 4896006
+        }
+    },
+    {
+        "name": "SC_2016",
+        "data": {
+            "Unnamed: 0": 353,
+            "data_year": 2016,
+            "state_abbr": "SC",
+            "population": 4963031
+        }
+    },
+    {
+        "name": "SC_2017",
+        "data": {
+            "Unnamed: 0": 354,
+            "data_year": 2017,
+            "state_abbr": "SC",
+            "population": 5027102
+        }
+    },
+    {
+        "name": "SC_2018",
+        "data": {
+            "Unnamed: 0": 355,
+            "data_year": 2018,
+            "state_abbr": "SC",
+            "population": 5091702
+        }
+    },
+    {
+        "name": "SC_2019",
+        "data": {
+            "Unnamed: 0": 356,
+            "data_year": 2019,
+            "state_abbr": "SC",
+            "population": 5157702
+        }
+    },
+    {
+        "name": "SC_2020",
+        "data": {
+            "Unnamed: 0": 357,
+            "data_year": 2020,
+            "state_abbr": "SC",
+            "population": 5132151
+        }
+    },
+    {
+        "name": "SC_2021",
+        "data": {
+            "Unnamed: 0": 358,
+            "data_year": 2021,
+            "state_abbr": "SC",
+            "population": 5193848
+        }
+    },
+    {
+        "name": "SC_2022",
+        "data": {
+            "Unnamed: 0": 359,
+            "data_year": 2022,
+            "state_abbr": "SC",
+            "population": 5282955
+        }
+    },
+    {
+        "name": "SD_2014",
+        "data": {
+            "Unnamed: 0": 360,
+            "data_year": 2014,
+            "state_abbr": "SD",
+            "population": 849670
+        }
+    },
+    {
+        "name": "SD_2015",
+        "data": {
+            "Unnamed: 0": 361,
+            "data_year": 2015,
+            "state_abbr": "SD",
+            "population": 854663
+        }
+    },
+    {
+        "name": "SD_2016",
+        "data": {
+            "Unnamed: 0": 362,
+            "data_year": 2016,
+            "state_abbr": "SD",
+            "population": 863693
+        }
+    },
+    {
+        "name": "SD_2017",
+        "data": {
+            "Unnamed: 0": 363,
+            "data_year": 2017,
+            "state_abbr": "SD",
+            "population": 873732
+        }
+    },
+    {
+        "name": "SD_2018",
+        "data": {
+            "Unnamed: 0": 364,
+            "data_year": 2018,
+            "state_abbr": "SD",
+            "population": 879386
+        }
+    },
+    {
+        "name": "SD_2019",
+        "data": {
+            "Unnamed: 0": 365,
+            "data_year": 2019,
+            "state_abbr": "SD",
+            "population": 887127
+        }
+    },
+    {
+        "name": "SD_2020",
+        "data": {
+            "Unnamed: 0": 366,
+            "data_year": 2020,
+            "state_abbr": "SD",
+            "population": 887852
+        }
+    },
+    {
+        "name": "SD_2021",
+        "data": {
+            "Unnamed: 0": 367,
+            "data_year": 2021,
+            "state_abbr": "SD",
+            "population": 896299
+        }
+    },
+    {
+        "name": "SD_2022",
+        "data": {
+            "Unnamed: 0": 368,
+            "data_year": 2022,
+            "state_abbr": "SD",
+            "population": 909869
+        }
+    },
+    {
+        "name": "TN_2014",
+        "data": {
+            "Unnamed: 0": 369,
+            "data_year": 2014,
+            "state_abbr": "TN",
+            "population": 6544617
+        }
+    },
+    {
+        "name": "TN_2015",
+        "data": {
+            "Unnamed: 0": 370,
+            "data_year": 2015,
+            "state_abbr": "TN",
+            "population": 6595354
+        }
+    },
+    {
+        "name": "TN_2016",
+        "data": {
+            "Unnamed: 0": 371,
+            "data_year": 2016,
+            "state_abbr": "TN",
+            "population": 6651277
+        }
+    },
+    {
+        "name": "TN_2017",
+        "data": {
+            "Unnamed: 0": 372,
+            "data_year": 2017,
+            "state_abbr": "TN",
+            "population": 6714748
+        }
+    },
+    {
+        "name": "TN_2018",
+        "data": {
+            "Unnamed: 0": 373,
+            "data_year": 2018,
+            "state_abbr": "TN",
+            "population": 6778180
+        }
+    },
+    {
+        "name": "TN_2019",
+        "data": {
+            "Unnamed: 0": 374,
+            "data_year": 2019,
+            "state_abbr": "TN",
+            "population": 6830325
+        }
+    },
+    {
+        "name": "TN_2020",
+        "data": {
+            "Unnamed: 0": 375,
+            "data_year": 2020,
+            "state_abbr": "TN",
+            "population": 6926091
+        }
+    },
+    {
+        "name": "TN_2021",
+        "data": {
+            "Unnamed: 0": 376,
+            "data_year": 2021,
+            "state_abbr": "TN",
+            "population": 6963709
+        }
+    },
+    {
+        "name": "TN_2022",
+        "data": {
+            "Unnamed: 0": 377,
+            "data_year": 2022,
+            "state_abbr": "TN",
+            "population": 7048976
+        }
+    },
+    {
+        "name": "TX_2014",
+        "data": {
+            "Unnamed: 0": 378,
+            "data_year": 2014,
+            "state_abbr": "TX",
+            "population": 26963092
+        }
+    },
+    {
+        "name": "TX_2015",
+        "data": {
+            "Unnamed: 0": 379,
+            "data_year": 2015,
+            "state_abbr": "TX",
+            "population": 27468531
+        }
+    },
+    {
+        "name": "TX_2016",
+        "data": {
+            "Unnamed: 0": 380,
+            "data_year": 2016,
+            "state_abbr": "TX",
+            "population": 27914064
+        }
+    },
+    {
+        "name": "TX_2017",
+        "data": {
+            "Unnamed: 0": 381,
+            "data_year": 2017,
+            "state_abbr": "TX",
+            "population": 28291024
+        }
+    },
+    {
+        "name": "TX_2018",
+        "data": {
+            "Unnamed: 0": 382,
+            "data_year": 2018,
+            "state_abbr": "TX",
+            "population": 28624564
+        }
+    },
+    {
+        "name": "TX_2019",
+        "data": {
+            "Unnamed: 0": 383,
+            "data_year": 2019,
+            "state_abbr": "TX",
+            "population": 28986794
+        }
+    },
+    {
+        "name": "TX_2020",
+        "data": {
+            "Unnamed: 0": 384,
+            "data_year": 2020,
+            "state_abbr": "TX",
+            "population": 29234361
+        }
+    },
+    {
+        "name": "TX_2021",
+        "data": {
+            "Unnamed: 0": 385,
+            "data_year": 2021,
+            "state_abbr": "TX",
+            "population": 29561286
+        }
+    },
+    {
+        "name": "TX_2022",
+        "data": {
+            "Unnamed: 0": 386,
+            "data_year": 2022,
+            "state_abbr": "TX",
+            "population": 30029848
+        }
+    },
+    {
+        "name": "UT_2014",
+        "data": {
+            "Unnamed: 0": 387,
+            "data_year": 2014,
+            "state_abbr": "UT",
+            "population": 2938327
+        }
+    },
+    {
+        "name": "UT_2015",
+        "data": {
+            "Unnamed: 0": 388,
+            "data_year": 2015,
+            "state_abbr": "UT",
+            "population": 2983626
+        }
+    },
+    {
+        "name": "UT_2016",
+        "data": {
+            "Unnamed: 0": 389,
+            "data_year": 2016,
+            "state_abbr": "UT",
+            "population": 3044241
+        }
+    },
+    {
+        "name": "UT_2017",
+        "data": {
+            "Unnamed: 0": 390,
+            "data_year": 2017,
+            "state_abbr": "UT",
+            "population": 3103540
+        }
+    },
+    {
+        "name": "UT_2018",
+        "data": {
+            "Unnamed: 0": 391,
+            "data_year": 2018,
+            "state_abbr": "UT",
+            "population": 3155153
+        }
+    },
+    {
+        "name": "UT_2019",
+        "data": {
+            "Unnamed: 0": 392,
+            "data_year": 2019,
+            "state_abbr": "UT",
+            "population": 3203383
+        }
+    },
+    {
+        "name": "UT_2020",
+        "data": {
+            "Unnamed: 0": 393,
+            "data_year": 2020,
+            "state_abbr": "UT",
+            "population": 3283982
+        }
+    },
+    {
+        "name": "UT_2021",
+        "data": {
+            "Unnamed: 0": 394,
+            "data_year": 2021,
+            "state_abbr": "UT",
+            "population": 3339284
+        }
+    },
+    {
+        "name": "UT_2022",
+        "data": {
+            "Unnamed: 0": 395,
+            "data_year": 2022,
+            "state_abbr": "UT",
+            "population": 3381236
+        }
+    },
+    {
+        "name": "VT_2014",
+        "data": {
+            "Unnamed: 0": 396,
+            "data_year": 2014,
+            "state_abbr": "VT",
+            "population": 625693
+        }
+    },
+    {
+        "name": "VT_2015",
+        "data": {
+            "Unnamed: 0": 397,
+            "data_year": 2015,
+            "state_abbr": "VT",
+            "population": 625810
+        }
+    },
+    {
+        "name": "VT_2016",
+        "data": {
+            "Unnamed: 0": 398,
+            "data_year": 2016,
+            "state_abbr": "VT",
+            "population": 624366
+        }
+    },
+    {
+        "name": "VT_2017",
+        "data": {
+            "Unnamed: 0": 399,
+            "data_year": 2017,
+            "state_abbr": "VT",
+            "population": 625132
+        }
+    },
+    {
+        "name": "VT_2018",
+        "data": {
+            "Unnamed: 0": 400,
+            "data_year": 2018,
+            "state_abbr": "VT",
+            "population": 624802
+        }
+    },
+    {
+        "name": "VT_2019",
+        "data": {
+            "Unnamed: 0": 401,
+            "data_year": 2019,
+            "state_abbr": "VT",
+            "population": 624046
+        }
+    },
+    {
+        "name": "VT_2020",
+        "data": {
+            "Unnamed: 0": 402,
+            "data_year": 2020,
+            "state_abbr": "VT",
+            "population": 642936
+        }
+    },
+    {
+        "name": "VT_2021",
+        "data": {
+            "Unnamed: 0": 403,
+            "data_year": 2021,
+            "state_abbr": "VT",
+            "population": 647093
+        }
+    },
+    {
+        "name": "VT_2022",
+        "data": {
+            "Unnamed: 0": 404,
+            "data_year": 2022,
+            "state_abbr": "VT",
+            "population": 647110
+        }
+    },
+    {
+        "name": "VA_2014",
+        "data": {
+            "Unnamed: 0": 405,
+            "data_year": 2014,
+            "state_abbr": "VA",
+            "population": 8315430
+        }
+    },
+    {
+        "name": "VA_2015",
+        "data": {
+            "Unnamed: 0": 406,
+            "data_year": 2015,
+            "state_abbr": "VA",
+            "population": 8367303
+        }
+    },
+    {
+        "name": "VA_2016",
+        "data": {
+            "Unnamed: 0": 407,
+            "data_year": 2016,
+            "state_abbr": "VA",
+            "population": 8417651
+        }
+    },
+    {
+        "name": "VA_2017",
+        "data": {
+            "Unnamed: 0": 408,
+            "data_year": 2017,
+            "state_abbr": "VA",
+            "population": 8471011
+        }
+    },
+    {
+        "name": "VA_2018",
+        "data": {
+            "Unnamed: 0": 409,
+            "data_year": 2018,
+            "state_abbr": "VA",
+            "population": 8510920
+        }
+    },
+    {
+        "name": "VA_2019",
+        "data": {
+            "Unnamed: 0": 410,
+            "data_year": 2019,
+            "state_abbr": "VA",
+            "population": 8556642
+        }
+    },
+    {
+        "name": "VA_2020",
+        "data": {
+            "Unnamed: 0": 411,
+            "data_year": 2020,
+            "state_abbr": "VA",
+            "population": 8637193
+        }
+    },
+    {
+        "name": "VA_2021",
+        "data": {
+            "Unnamed: 0": 412,
+            "data_year": 2021,
+            "state_abbr": "VA",
+            "population": 8657348
+        }
+    },
+    {
+        "name": "VA_2022",
+        "data": {
+            "Unnamed: 0": 413,
+            "data_year": 2022,
+            "state_abbr": "VA",
+            "population": 8679099
+        }
+    },
+    {
+        "name": "WA_2014",
+        "data": {
+            "Unnamed: 0": 414,
+            "data_year": 2014,
+            "state_abbr": "WA",
+            "population": 7057531
+        }
+    },
+    {
+        "name": "WA_2015",
+        "data": {
+            "Unnamed: 0": 415,
+            "data_year": 2015,
+            "state_abbr": "WA",
+            "population": 7167287
+        }
+    },
+    {
+        "name": "WA_2016",
+        "data": {
+            "Unnamed: 0": 416,
+            "data_year": 2016,
+            "state_abbr": "WA",
+            "population": 7299961
+        }
+    },
+    {
+        "name": "WA_2017",
+        "data": {
+            "Unnamed: 0": 417,
+            "data_year": 2017,
+            "state_abbr": "WA",
+            "population": 7427951
+        }
+    },
+    {
+        "name": "WA_2018",
+        "data": {
+            "Unnamed: 0": 418,
+            "data_year": 2018,
+            "state_abbr": "WA",
+            "population": 7526793
+        }
+    },
+    {
+        "name": "WA_2019",
+        "data": {
+            "Unnamed: 0": 419,
+            "data_year": 2019,
+            "state_abbr": "WA",
+            "population": 7614024
+        }
+    },
+    {
+        "name": "WA_2020",
+        "data": {
+            "Unnamed: 0": 420,
+            "data_year": 2020,
+            "state_abbr": "WA",
+            "population": 7724566
+        }
+    },
+    {
+        "name": "WA_2021",
+        "data": {
+            "Unnamed: 0": 421,
+            "data_year": 2021,
+            "state_abbr": "WA",
+            "population": 7741433
+        }
+    },
+    {
+        "name": "WA_2022",
+        "data": {
+            "Unnamed: 0": 422,
+            "data_year": 2022,
+            "state_abbr": "WA",
+            "population": 7784477
+        }
+    },
+    {
+        "name": "WV_2014",
+        "data": {
+            "Unnamed: 0": 423,
+            "data_year": 2014,
+            "state_abbr": "WV",
+            "population": 1850569
+        }
+    },
+    {
+        "name": "WV_2015",
+        "data": {
+            "Unnamed: 0": 424,
+            "data_year": 2015,
+            "state_abbr": "WV",
+            "population": 1843332
+        }
+    },
+    {
+        "name": "WV_2016",
+        "data": {
+            "Unnamed: 0": 425,
+            "data_year": 2016,
+            "state_abbr": "WV",
+            "population": 1832435
+        }
+    },
+    {
+        "name": "WV_2017",
+        "data": {
+            "Unnamed: 0": 426,
+            "data_year": 2017,
+            "state_abbr": "WV",
+            "population": 1818683
+        }
+    },
+    {
+        "name": "WV_2018",
+        "data": {
+            "Unnamed: 0": 427,
+            "data_year": 2018,
+            "state_abbr": "WV",
+            "population": 1805953
+        }
+    },
+    {
+        "name": "WV_2019",
+        "data": {
+            "Unnamed: 0": 428,
+            "data_year": 2019,
+            "state_abbr": "WV",
+            "population": 1795263
+        }
+    },
+    {
+        "name": "WV_2020",
+        "data": {
+            "Unnamed: 0": 429,
+            "data_year": 2020,
+            "state_abbr": "WV",
+            "population": 1791562
+        }
+    },
+    {
+        "name": "WV_2021",
+        "data": {
+            "Unnamed: 0": 430,
+            "data_year": 2021,
+            "state_abbr": "WV",
+            "population": 1785249
+        }
+    },
+    {
+        "name": "WV_2022",
+        "data": {
+            "Unnamed: 0": 431,
+            "data_year": 2022,
+            "state_abbr": "WV",
+            "population": 1774035
+        }
+    },
+    {
+        "name": "WI_2014",
+        "data": {
+            "Unnamed: 0": 432,
+            "data_year": 2014,
+            "state_abbr": "WI",
+            "population": 5753199
+        }
+    },
+    {
+        "name": "WI_2015",
+        "data": {
+            "Unnamed: 0": 433,
+            "data_year": 2015,
+            "state_abbr": "WI",
+            "population": 5762927
+        }
+    },
+    {
+        "name": "WI_2016",
+        "data": {
+            "Unnamed: 0": 434,
+            "data_year": 2016,
+            "state_abbr": "WI",
+            "population": 5775170
+        }
+    },
+    {
+        "name": "WI_2017",
+        "data": {
+            "Unnamed: 0": 435,
+            "data_year": 2017,
+            "state_abbr": "WI",
+            "population": 5793147
+        }
+    },
+    {
+        "name": "WI_2018",
+        "data": {
+            "Unnamed: 0": 436,
+            "data_year": 2018,
+            "state_abbr": "WI",
+            "population": 5809319
+        }
+    },
+    {
+        "name": "WI_2019",
+        "data": {
+            "Unnamed: 0": 437,
+            "data_year": 2019,
+            "state_abbr": "WI",
+            "population": 5824581
+        }
+    },
+    {
+        "name": "WI_2020",
+        "data": {
+            "Unnamed: 0": 438,
+            "data_year": 2020,
+            "state_abbr": "WI",
+            "population": 5896700
+        }
+    },
+    {
+        "name": "WI_2021",
+        "data": {
+            "Unnamed: 0": 439,
+            "data_year": 2021,
+            "state_abbr": "WI",
+            "population": 5879978
+        }
+    },
+    {
+        "name": "WI_2022",
+        "data": {
+            "Unnamed: 0": 440,
+            "data_year": 2022,
+            "state_abbr": "WI",
+            "population": 5890543
+        }
+    },
+    {
+        "name": "WY_2014",
+        "data": {
+            "Unnamed: 0": 441,
+            "data_year": 2014,
+            "state_abbr": "WY",
+            "population": 583159
+        }
+    },
+    {
+        "name": "WY_2015",
+        "data": {
+            "Unnamed: 0": 442,
+            "data_year": 2015,
+            "state_abbr": "WY",
+            "population": 586389
+        }
+    },
+    {
+        "name": "WY_2016",
+        "data": {
+            "Unnamed: 0": 443,
+            "data_year": 2016,
+            "state_abbr": "WY",
+            "population": 585243
+        }
+    },
+    {
+        "name": "WY_2017",
+        "data": {
+            "Unnamed: 0": 444,
+            "data_year": 2017,
+            "state_abbr": "WY",
+            "population": 579994
+        }
+    },
+    {
+        "name": "WY_2018",
+        "data": {
+            "Unnamed: 0": 445,
+            "data_year": 2018,
+            "state_abbr": "WY",
+            "population": 579054
+        }
+    },
+    {
+        "name": "WY_2019",
+        "data": {
+            "Unnamed: 0": 446,
+            "data_year": 2019,
+            "state_abbr": "WY",
+            "population": 580116
+        }
+    },
+    {
+        "name": "WY_2020",
+        "data": {
+            "Unnamed: 0": 447,
+            "data_year": 2020,
+            "state_abbr": "WY",
+            "population": 577664
+        }
+    },
+    {
+        "name": "WY_2021",
+        "data": {
+            "Unnamed: 0": 448,
+            "data_year": 2021,
+            "state_abbr": "WY",
+            "population": 579548
+        }
+    },
+    {
+        "name": "WY_2022",
+        "data": {
+            "Unnamed: 0": 449,
+            "data_year": 2022,
+            "state_abbr": "WY",
+            "population": 581629
+        }
+    }
+]
