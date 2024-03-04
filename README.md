@@ -10,6 +10,7 @@ A collection of jupyter notebooks dedicated to pulling and cleaning data.
 
 #### **crime_stats**
 - Pulling crime information from the FBI's crime database via API (https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/docApi)
+- Pulling annual population estimates to assist in determining crime rates when calculated with data from the FBI via CSV files (https://fred.stlouisfed.org/release/tables?rid=118&eid=259194)
 #### **unemployment_stats**
 - Pulling unemployment information from the U.S. Bureau of Labor Statistics (BLS) via API (https://www.bls.gov/developers/api_signature_v2.htm)
 
