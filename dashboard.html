@@ -6,8 +6,6 @@
   <title>Visualization Dashboard</title>
   <!-- Leaflet CSS -->
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
-  <!-- Combined CSS (later step) -->
-  <link rel="stylesheet" href="dashboard.css">
   <!-- D3 Library -->
   <script src="https://unpkg.com/d3@7"></script>
   <!-- Leaflet JavaScript -->
@@ -17,10 +15,8 @@
   <!-- Visualization Sections -->
   <div id="visualization1" class="visualization">
     <select id="crimeSelector1">
-      <!-- Options will be dynamically added here -->
     </select>
     <div id="map1" style="width: 60%; height: 300px;"></div>
-    <!-- No need to repeat external library scripts here -->
   </div>
   <!-- Visualization 2 Section -->
   <div id="visualization2" class="visualization">
@@ -32,12 +28,11 @@
       <select id="yearSelector2"></select>
 
     <div id="map2" style="width: 60%; height: 300px;"></div>
-    <div id="controls2">
+    <div id="controls2"></div>
       
-   
   </div>
-<!-- Visualization 3 Section -->
-<div id="visualization3" class="visualization">
+    <!-- Visualization 3 Section -->
+    <div id="visualization3" class="visualization">
 
     <div>
         <label for="stateDropdown">Select State:</label>
@@ -51,6 +46,6 @@
 
   <script src="Visualizations/logic.js"></script> 
   <script src="BubbleMap/logic.js"></script>
-  <script src="TimeSeriesPlot/logic.js"></script>  
+  <!-- <script src="TimeSeriesPlot/logic.js"></script>   -->
 </body>
 </html>
