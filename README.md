@@ -24,3 +24,11 @@ Bubble map that creates a bubble map based where the bubble's size is dependent 
 Time series plot that contains two plot lines: the rate of unemployment by state over time, and the rate of a specified crime over time. 
 #### **ChoroplethMap** ####
 Choropleth map that can be filtered by crime to visually represnt how strong the correlation between unemployment rate and crime rate is for each state. Green represents postive correlations stronger than .5, indicating a rise in crime relative to the rise in unemployment. Red represents a negative correlations stronger than -.5, indicating a reduction in crime relative to the rise of unemployment.
+
+## Resources ##
+https://github.com/jazzband/geojson
+https://www.bls.gov/charts/state-employment-and-unemployment/state-unemployment-rates-animated.htm
+https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/docApi
+https://chat.openai.com
+https://leafletjs.com/reference.html
+

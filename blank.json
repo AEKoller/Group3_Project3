@@ -1,20 +1,29 @@
-"id": "01",
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "01",
             "properties": {
                 "name": "Alabama",
                 "density": 94.65,
                 "data_2020":{
                     "vandalism": 10000,
-                    "muders": 1000,
-                    ""
+                    "muders": 1000
                 },
                 "data_2021": {
                     "vandalism": 10000,
                     "muders": 1000
                 }
             },
-// How do we manipulate a GeoJSON? Through python and pandas 
-// Use GeoJSON Tools https://github.com/jazzband/geojson
-// Read in the GeoJSON, create a new json that holds the crime data 
-// How do we then attach colors to values 
-// Merging the JSONs together 
-// Final map will be built with GeoJSON and the crime data
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": []}}],
+
+"comment": "How do we manipulate a GeoJSON? Through python and pandas",
+"comment1": "Use GeoJSON Tools https://github.com/jazzband/geojson",
+"comment2": "Read in the GeoJSON, create a new json that holds the crime data ",
+"comment3": "How do we then attach colors to values ",
+"comment4": "Merging the JSONs together ",
+"comment5": "Final map will be built with GeoJSON and the crime data"
+            }
