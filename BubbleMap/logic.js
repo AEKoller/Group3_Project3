@@ -1,7 +1,7 @@
 let data; // Declare the data variable in a higher scope
 let filteredGeoJSON; // Declare variable to store filtered GeoJSON data
 let stateMapping = {}; // Declare variable to store the mapping between state_abbr and name
-let map; // Declare the map variable in a higher scope
+let map2; // Declare the map variable in a higher scope
 
 document.addEventListener('DOMContentLoaded', () => {
   fetchDataAndInitialize();
@@ -44,36 +44,38 @@ function initializeDropdowns(crimeData) {
   data = crimeData;
 
   // Initialize Leaflet map
-  map = L.map('map').setView([37.8, -96], 4);
+  map2 = L.map('map2').setView([37.8, -96], 4);
 
   // Add a tile layer (OpenStreetMap as an example)
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '© OpenStreetMap contributors',
-  }).addTo(map);
+  }).addTo(map2);
 
   // Extract unique crimes and years
   const uniqueCrimes = Object.keys(crimeData[0]).filter(key => key.endsWith('_rate') && key !== 'Unemployment_Rate');
   const uniqueYears = Array.from(new Set(crimeData.map(entry => entry.data_year)));
 
   // Populate crime dropdown
+  const crimeSelector2 = document.getElementById('crimeSelector2');
   uniqueCrimes.forEach(crime => {
     const option = document.createElement('option');
     option.value = crime;
     option.textContent = crime.replace('_rate', ''); // Display without '_rate'
-    crimeSelector.appendChild(option);
+    crimeSelector2.appendChild(option);
   });
 
   // Populate year dropdown
+  const yearSelector2 = document.getElementById('yearSelector2');
   uniqueYears.forEach(year => {
     const option = document.createElement('option');
     option.value = year;
     option.textContent = year;
-    yearSelector.appendChild(option);
+    yearSelector2.appendChild(option);
   });
 
   // Add event listeners to dropdowns for updating the map
-  crimeSelector.addEventListener('change', updateMap);
-  yearSelector.addEventListener('change', updateMap);
+  crimeSelector2.addEventListener('change', updateMap);
+  yearSelector2.addEventListener('change', updateMap);
 
   // Initial map rendering
   updateMap();
@@ -81,8 +83,8 @@ function initializeDropdowns(crimeData) {
 
 function updateMap() {
   // Add logic to filter data based on dropdown selections
-  const selectedCrime = d3.select('#crimeSelector').node().value;
-  const selectedYear = d3.select('#yearSelector').node().value;
+  const selectedCrime = document.getElementById('crimeSelector2').value;
+  const selectedYear = document.getElementById('yearSelector2').value;
 
   // Check if selectedCrime and selectedYear are valid
   if (!selectedCrime || !selectedYear) {
@@ -116,7 +118,7 @@ function updateMap() {
 
   try {
     // Clear previous markers
-    map.eachLayer(layer => {
+    map2.eachLayer(layer => {
       if (layer instanceof L.Marker || layer instanceof L.CircleMarker) {
         layer.remove();
       }
@@ -151,7 +153,7 @@ function updateMap() {
         `);
 
         // Add the circle marker to the map
-        circle.addTo(map);
+        circle.addTo(map2);
       } else {
         console.warn('Skipping entry with undefined coordinates:', entry);
       }

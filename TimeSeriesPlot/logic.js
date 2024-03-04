@@ -1,4 +1,4 @@
-let data; // Declare the data variable in a higher scope
+let data3; // Declare the data variable in a higher scope
 
 document.addEventListener('DOMContentLoaded', () => {
   fetchDataAndInitialize();
@@ -12,22 +12,22 @@ async function fetchDataAndInitialize() {
       throw new Error(`HTTP error! Status: ${response.status}`);
     }
 
-    data = await response.json(); // Assign the data to the variable in the higher scope
+    data3 = await response.json(); // Assign the data to the variable in the higher scope
 
-    if (!Array.isArray(data)) {
+    if (!Array.isArray(data3)) {
       throw new Error('Invalid JSON format');
     }
 
-    initializeDropdowns(data);
+    initializeDropdowns(data3);
   } catch (error) {
     console.error('Error fetching data:', error);
   }
 }
 
-function initializeDropdowns(data) {
+function initializeDropdowns(data3) {
   // Extract unique states and crimes
-  const uniqueStates = Array.from(new Set(data.map(entry => entry.state_abbr)));
-  const uniqueCrimes = Object.keys(data[0]).filter(key => key.endsWith('_rate'));
+  const uniqueStates = Array.from(new Set(data3.map(entry => entry.state_abbr)));
+  const uniqueCrimes = Object.keys(data3[0]).filter(key => key.endsWith('_rate'));
 
   // Populate state dropdown
   uniqueStates.forEach(state => {
@@ -50,7 +50,7 @@ function initializeDropdowns(data) {
   crimeDropdown.addEventListener('change', updatePlot);
 
   // Initial plot with default selection
-  plotTimeSeries(data, uniqueStates[0], uniqueCrimes[0]);
+  plotTimeSeries(data3, uniqueStates[0], uniqueCrimes[0]);
 }
 
 function updatePlot() {
@@ -58,11 +58,11 @@ function updatePlot() {
   const selectedCrime = crimeDropdown.value;
 
   // Update the plot with new selected values
-  plotTimeSeries(data, selectedState, selectedCrime);
+  plotTimeSeries(data3, selectedState, selectedCrime);
 }
 
-function plotTimeSeries(data, selectedState, selectedCrime) {
-  const filteredData = data.filter(entry => entry.state_abbr === selectedState);
+function plotTimeSeries(data3, selectedState, selectedCrime) {
+  const filteredData = data3.filter(entry => entry.state_abbr === selectedState);
 
   const margin = { top: 50, right: 60, bottom: 100, left: 60 }; // Increased right margin
   const width = 650 - margin.left - margin.right;

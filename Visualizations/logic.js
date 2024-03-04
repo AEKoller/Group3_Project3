@@ -1,14 +1,8 @@
-// // 1. We need a GeoJSON map imported 
-// // 2. Merge the all_crimes_correlation_data.json with the GeoJSON map
-// //    2.1 We won't be touching the outlines for the states 
-// //    2.2 We will be adding the data to the states
-
-
 // https://danielmargol.com/choropleth-map-google-maps/
 
 
 // Define global variables at the top
-var map = L.map('map').setView([37.8, -96], 4);
+var map1 = L.map('map1').setView([37.8, -96], 4);
 var geojsonLayer; // This will hold the GeoJSON layer for easy access and manipulation
 var geojsonDataGlobal; // To store GeoJSON data globally after initial fetch
 var transformedDataGlobal; // To store transformed correlation data globally
@@ -33,7 +27,7 @@ const idToStateAbbreviation = {
 L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
   maxZoom: 19,
   attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-}).addTo(map);
+}).addTo(map1);
 
 
 // Function to determine fillColor based on Pearson r value
@@ -47,8 +41,8 @@ function getColor(pearsonR) {
 
 function loadDataAndInitializeMap() {
   Promise.all([
-    fetch('Data/us-states.json').then(resp => resp.json()),
-    fetch('Data/all_crimes_correlation_data.json').then(resp => resp.json())
+    fetch('Visualizations/Data/us-states.json').then(resp => resp.json()),
+    fetch('Visualizations/Data/all_crimes_correlation_data.json').then(resp => resp.json())
   ])
   .then(([geojsonData, correlationData]) => {
     geojsonDataGlobal = geojsonData;
@@ -80,18 +74,18 @@ function transformCorrelationData(data) {
 
 // Populate crime selector dropdown
 function populateCrimeDropdown(correlationData) {
-  const crimeSelector = document.getElementById('crimeSelector');
+  const crimeSelector1 = document.getElementById('crimeSelector1');
   const crimeTypes = [...new Set(correlationData.map(item => item.data.Crime_Type))];
   
   crimeTypes.forEach(crimeType => {
       const option = document.createElement('option');
       option.value = crimeType;
       option.text = crimeType;
-      crimeSelector.appendChild(option);
+      crimeSelector1.appendChild(option);
   });
 
   // Add event listener for when the crime type changes
-  crimeSelector.addEventListener('change', function() {
+  crimeSelector1.addEventListener('change', function() {
     const selectedCrimeType = this.value;
     console.log("Selected crime type:", selectedCrimeType); // Debugging line
     // Call function to update the map based on the selected crime type
@@ -103,7 +97,7 @@ function populateCrimeDropdown(correlationData) {
 
 function updateMapForCrimeType(selectedCrimeType) {
   if (geojsonLayer) {
-    map.removeLayer(geojsonLayer);
+    map1.removeLayer(geojsonLayer);
   }
 
   geojsonLayer = L.geoJSON(geojsonDataGlobal, {
@@ -132,7 +126,7 @@ function updateMapForCrimeType(selectedCrimeType) {
         console.log(`Data for ${selectedCrimeType} in ${stateAbbreviation} is undefined.`);
       }
     }
-  }).addTo(map);
+  }).addTo(map1);
 }
 
 loadDataAndInitializeMap();

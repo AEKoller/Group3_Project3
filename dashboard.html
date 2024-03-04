@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Visualization Dashboard</title>
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+  <!-- Combined CSS (later step) -->
+  <link rel="stylesheet" href="dashboard.css">
+  <!-- D3 Library -->
+  <script src="https://unpkg.com/d3@7"></script>
+  <!-- Leaflet JavaScript -->
+  <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+</head>
+<body>
+  <!-- Visualization Sections -->
+  <div id="visualization1" class="visualization">
+    <select id="crimeSelector1">
+      <!-- Options will be dynamically added here -->
+    </select>
+    <div id="map1" style="width: 60%; height: 300px;"></div>
+    <!-- No need to repeat external library scripts here -->
+  </div>
+  <!-- Visualization 2 Section -->
+  <div id="visualization2" class="visualization">
+
+    <label for="crimeSelector2">Select Crime:</label>
+      <select id="crimeSelector2"></select>
+      
+      <label for="yearSelector2">Select Year:</label>
+      <select id="yearSelector2"></select>
+
+    <div id="map2" style="width: 60%; height: 300px;"></div></div>
+    <div id="controls2">
+      
+    </div>
+   
+  </div>
+<!-- Visualization 3 Section -->
+<div id="visualization3" class="visualization">
+
+    <div>
+        <label for="stateDropdown">Select State:</label>
+        <select id="stateDropdown"></select>
+      </div>
+      <div>
+        <label for="crimeDropdown">Select Crime:</label>
+        <select id="crimeDropdown"></select>
+      </div>
+      <div id="timeSeriesChart"></div>
+
+  <script src="Visualizations/logic.js"></script> 
+  <script src="BubbleMap/logic.js"></script>
+  <script src="TimeSeriesPlot/logic.js"></script>  
+</body>
+</html>
